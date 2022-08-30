@@ -17,14 +17,11 @@ class Entrainement:
     def ajout_cooccurrence(self):
         for index in range(self.taille_fenetre):
             if not index == self.demie_fenetre:
-                if (self.index_fenetre - index) > 0 and (self.index_fenetre + index) < self.taille_texte:
+                idx_relatif = (self.demie_fenetre + 1) - self.taille_fenetre + index
+                if (self.index_fenetre + idx_relatif) >= 0 and (self.index_fenetre + idx_relatif) <= self.taille_texte:
                     idx_mot = self.mots_uniques[self.texte_complet[self.index_fenetre]]
-                    idx_relatif = (self.demie_fenetre + 1) - self.taille_fenetre + index
-                    print(idx_relatif)
-                    #print(idx_mot)
-                    #temp = self.texte_complet[self.index_fenetre + idx_relatif]
-                    #idx_cooccurrent = self.mots_uniques[temp]
-                    #self.cooccurrences[idx_mot][idx_cooccurrent] += 1
+                    idx_cooccurrent = self.mots_uniques[self.texte_complet[int(self.index_fenetre + idx_relatif)]]
+                    self.cooccurrences[idx_mot][idx_cooccurrent] += 1
         self.deplacer_fenetre()
                     
     def deplacer_fenetre(self):
