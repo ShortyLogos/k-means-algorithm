@@ -1,27 +1,27 @@
 import sys
-import entrainement
+import entrainement as ent
+import prediction as pred
 import numpy as np
-
-def lecture_texte(fichier):
-    return np.array(fichier.read().split())
+from time import perf_counter
 
 def main(params):
-    texte_complet = None
-    taille_fenetre = None
+    start_time_total = perf_counter()
     
     try:
-        taille_fenetre, encodage, chemin = params[1:] # on ignore le premier paramètre qui correspond au nom du fichier
-        try:
-            fichier = open(chemin, 'r', encoding = f'{encodage}')
-            texte_complet = lecture_texte(fichier)           
-            fichier.close()
-        except:
-            print("Chemin d'accès invalide")
+        taille_fenetre, encodage, chemin = params[1:] # on ignore le premier paramètre qui correspond au nom du fichier actuel
     except:
         print("Veuillez spécifier la taille de la fenêtre, l'encodage et le chemin du fichier")
-        
-    ent = entrainement.Entrainement(texte_complet, int(taille_fenetre))
+    
+    if taille_fenetre>0 and encodage is not None and chemin is not None:
+        entraineur = ent.Entrainement(chemin, encodage, int(taille_fenetre))
+        entraineur.entrainer()
+        predicteur = pred.Prediction(entraineur.cooccurrences)
+    
+    end_time_total = perf_counter()
+    print("Total Execution time: "+str(end_time_total-start_time_total))
 
     
 if __name__ == '__main__':
 	quit(main(sys.argv))
+ 
+ # Sexual Lobster, the girl on TV
