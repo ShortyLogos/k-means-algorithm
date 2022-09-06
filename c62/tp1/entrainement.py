@@ -13,13 +13,12 @@ class Entrainement:
         self.lire_texte()
         self.extraire_mots_uniques()
         self.analyser_texte()
-        end_time_training = perf_counter()
-        print("Training Execution time: "+str(end_time_training-start_time_training))
+        print("Training Execution time: "+str(perf_counter()-start_time_training))
             
     def lire_texte(self):
         try:
             fichier = open(self.chemin, 'r', encoding = self.encodage)
-            self.texte_complet = re.findall("\w+", fichier.read())         
+            self.texte_complet = re.findall("\w+", fichier.read().lower()) # On met en minuscule le texte pour éviter les doublons dû à des majuscules
             fichier.close()
         except:
             print("Une erreur est survenus durant la lecture du fichier.")
@@ -28,7 +27,7 @@ class Entrainement:
         self.mots_uniques = {}
         for mot in self.texte_complet:
             if mot not in self.mots_uniques:
-                self.mots_uniques[mot] = len(self.mots_uniques)
+                self.mots_uniques[mot] = len(self.mots_uniques) #Avec le length, on obtiens le bon indexe sans l'utilisation d'un itérateur
         
     def analyser_texte(self):
         self.cooccurrences = np.zeros((len(self.mots_uniques), len(self.mots_uniques)))
@@ -42,5 +41,3 @@ class Entrainement:
                 if i+index < len(self.texte_complet):
                     idx_cooccurrent = self.mots_uniques[self.texte_complet[i+index]]
                     self.cooccurrences[idx_mot][idx_cooccurrent] += 1
-
-# création d'une matrice numpy en enlevant tous les doublons pour obtenir les index de tous les mots uniques
