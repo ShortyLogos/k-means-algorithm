@@ -23,12 +23,12 @@ class Entrainement:
         self.__lire_texte()
         self.__extraire_mots_uniques()
         self.__analyser_texte()
-        print("Training Execution time: "+str(perf_counter()-start_time_training))
+        print("Training Execution time: " + str(perf_counter()-start_time_training))
             
     def __lire_texte(self):
         try:
             fichier = open(self.__chemin, 'r', encoding = self.__encodage)
-            self.__texte_complet = re.findall("\w+", fichier.read().lower()) # On met en minuscule le texte pour éviter les doublons dû à des majuscules
+            self.__texte_complet = re.findall("\w+", fichier.read().lower()) # on met en minuscule le texte pour éviter les doublons dû à des majuscules
             fichier.close()
         except:
             print("Une erreur est survenus durant la lecture du fichier.")
@@ -36,7 +36,7 @@ class Entrainement:
     def __extraire_mots_uniques(self):
         for mot in self.__texte_complet:
             if mot not in self.__mots_uniques:
-                self.__mots_uniques[mot] = len(self.__mots_uniques) #Avec le length, on obtiens le bon indexe sans l'utilisation d'un itérateur
+                self.__mots_uniques[mot] = len(self.__mots_uniques) # avec le length, on obtiens le bon index sans l'utilisation d'un itérateur
         
     def __analyser_texte(self):
         self.__cooccurrences = np.zeros((len(self.__mots_uniques), len(self.__mots_uniques)))
@@ -44,9 +44,9 @@ class Entrainement:
         for i in range(len(self.__texte_complet)):
             for index in range(1, demie_fenetre+1):
                 idx_mot = self.__mots_uniques[self.__texte_complet[i]]
-                if i-index >= 0:
+                if i - index >= 0:
                     idx_cooccurrent = self.__mots_uniques[self.__texte_complet[i-index]]
                     self.__cooccurrences[idx_mot][idx_cooccurrent] += 1
-                if i+index < len(self.__texte_complet):
+                if i + index < len(self.__texte_complet):
                     idx_cooccurrent = self.__mots_uniques[self.__texte_complet[i+index]]
                     self.__cooccurrences[idx_mot][idx_cooccurrent] += 1
