@@ -9,7 +9,7 @@ def main(params):
     except:
         print("Veuillez spécifier la taille de la fenêtre, l'encodage et le chemin du fichier")
     
-    if int(taille_fenetre)>0 and encodage is not None and chemin is not None:
+    if int(taille_fenetre) > 0 and encodage is not None and chemin is not None:
         entraineur = ent.Entrainement(chemin, encodage, int(taille_fenetre))
         entraineur.entrainer()
         predicteur = pred.Prediction(entraineur.cooccurrences, entraineur.mots_uniques)
