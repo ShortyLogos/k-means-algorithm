@@ -18,6 +18,10 @@ class Entrainement:
     def mots_uniques(self):
         return self.__mots_uniques
 
+    @property
+    def encodage(self):
+        return self.__encodage
+
     def entrainer(self):
         start_time_training = perf_counter()
         self.__lire_texte()
@@ -31,7 +35,7 @@ class Entrainement:
             self.__texte_complet = re.findall("\w+", fichier.read().lower()) # on met en minuscule le texte pour éviter les doublons dû à des majuscules
             fichier.close()
         except:
-            print("Une erreur est survenus durant la lecture du fichier.")
+            print("Une erreur est survenue durant la lecture du fichier.")
         
     def __extraire_mots_uniques(self):
         for mot in self.__texte_complet:
