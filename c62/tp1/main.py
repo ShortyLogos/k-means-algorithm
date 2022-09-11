@@ -12,7 +12,8 @@ def main(params):
     if int(taille_fenetre) > 0 and encodage is not None and chemin is not None:
         entraineur = ent.Entrainement(chemin, encodage, int(taille_fenetre))
         entraineur.entrainer()
-        predicteur = pred.Prediction(entraineur.cooccurrences, entraineur.mots_uniques)
+        predicteur = pred.Prediction(entraineur.cooccurrences, entraineur.mots_uniques, entraineur.encodage)
+        predicteur.generer_stopwords()
         predicteur.predire()
     
 if __name__ == '__main__':

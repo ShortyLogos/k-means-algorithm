@@ -2,6 +2,7 @@ import re
 from time import perf_counter
 from enum import IntEnum
 import numpy as np
+import sys, os
 
 class Methode(IntEnum):
     PRODUIT_SCALAIRE = 0
@@ -9,23 +10,34 @@ class Methode(IntEnum):
     CITY_BLOCK = 2
 
 class Prediction:
-    def __init__(self, matrice_cooccurrences, mots_uniques):
+    def __init__(self, matrice_cooccurrences, mots_uniques, encodage):
         self.__matrice_cooccurrences = matrice_cooccurrences
         self.__mots_uniques = mots_uniques
         self.__liste_cles = list(mots_uniques)
+        self.__encodage_stopwords = encodage
         self.__prompt_utilisateur = ("\n Entrez un mot, le nombre de synonymes que vous voulez"
                                       " et la méthode de calcul, i.e. produit scalaire: 0, least-squares: 1"
                                       ", city-block: 2 \n\n Tapez q pour quitter.\n\n")
-        
+    
+    def generer_stopwords(self, chemin = os.path.join(sys.path[0], "stopwords.txt")):
+        try:
+            fichier_stopwords = open(chemin, 'r', encoding = self.__encodage_stopwords)
+            self.__stopwords = re.findall("\w+", fichier_stopwords.read().lower())
+            fichier_stopwords.close()
+        except:
+            print("Le fichier stopwords.txt n'a pas été trouvé. Les résultats risquent d'être pollués.")
+
     def predire(self):
         entree_utilisateur = input(self.__prompt_utilisateur)
         while entree_utilisateur != 'q':
             try:
                 mot, nbr_reponses, methode_choisie = str.lower(entree_utilisateur).split()
                 if mot is not None and int(nbr_reponses) > 0:
+                    print()
                     self.__mot = mot
                     self.__vecteur_mot = self.__matrice_cooccurrences[self.__mots_uniques[self.__mot]]
                     self.__nbr_reponses = int(nbr_reponses)
+                    start_time_training = perf_counter()
                     match int(methode_choisie):
                         case Methode.PRODUIT_SCALAIRE.value:
                             self._prediction_scalaire()
@@ -35,24 +47,37 @@ class Prediction:
                             self._prediction_block()
                         case default:
                             raise ValueError('Méthode de calcul invalide.')
+                    print("Training Execution time: " + str(perf_counter()-start_time_training))
+            except KeyError as exception:
+                print(f"{exception} n'existe pas dans le texte.")
             except ValueError as exception:
                 print(f'{exception}. Veuillez réessayer.')
             entree_utilisateur = input(self.__prompt_utilisateur)
 
     def operation_scalaire(self, vecteur_compare, index):
-        # ref : https://fr.acervolima.com/comment-calculer-le-produit-scalaire-de-deux-vecteurs-en-python/ (la méthode np.dot())
-        #if self.__mots_uniques[self.__mot] != index:
         score = np.dot(self.__vecteur_mot, vecteur_compare)
         return score, index
-            
+
+        # ref : https://fr.acervolima.com/comment-calculer-le-produit-scalaire-de-deux-vecteurs-en-python/ (la méthode np.dot())
+
     def _prediction_scalaire(self):
         resultats_brutes = np.array([self.operation_scalaire(v, i) for i, v in enumerate(self.__matrice_cooccurrences)]) # on effectue le produit scalaire sur chacun des vecteurs
-        resultats_triees = sorted(resultats_brutes, key = lambda x:x[0], reverse = True) # cette méthode effectue un tri mais détruit la nature numpy de la matrice
-        resultats_triees = np.array(list(resultats_triees[:]), dtype=np.int) # on doit reconvertir la matrice en matrice numpy
+        resultats_tries = sorted(resultats_brutes, key = lambda x:x[0], reverse = True) # cette méthode effectue un tri mais détruit la nature numpy de la matrice
 
-        for resultat in resultats_triees[:self.__nbr_reponses]:
-            mot = self.__liste_cles[resultat[1]]
-            print(f"{mot} --> {resultat[0]}")
+        nb_resultats = 0
+        resultats_ignores = 0
+        while nb_resultats < self.__nbr_reponses:
+            resultat = nb_resultats + resultats_ignores
+            try:
+                mot = self.__liste_cles[int(resultats_tries[resultat][1])] # pour utiliser l'index, on doit le convertir en int car un float depuis numpy
+                if mot not in self.__stopwords and mot != self.__mot: # on exclut les stopwords et le mot principal des résultats
+                    print(f"{mot} --> {resultats_tries[resultat][0]}")
+                    nb_resultats += 1
+                else:
+                    resultats_ignores += 1
+            except IndexError as exception:
+                print('\nMoins de résultats disponibles que demandés.')
+                break
 
         # ref : https://stackoverflow.com/questions/42541303/numpy-apply-along-axis-and-get-row-index
         # ref https://www.adamsmith.haus/python/answers/how-to-access-a-dictionary-key-by-index-in-python
