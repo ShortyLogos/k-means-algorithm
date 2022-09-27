@@ -1,0 +1,120 @@
+IA Cours 1 - Introduction
+
+SQLite est utilisé.
+
++ Auto-documentation du code importante au sein du cours
+
+Langage PROLOGUE : années 70, implémentait des concepts logiques rules-based,
+ancêtre de l'IA. Des règles à suivre comme un jeu d'échec. Principe du système expert
+(ce que les experts ont à dire sur tel ou tel sujet).
+
+## Cooccurences et Synonymes
+
+L'apprentissage-machine est arrivée avec la capacité computationnelle nécessaire et
+l'obtention d'un nombre de données suffisantes (immense).
+
+Apprentissage-machine (ou l'intelligence en général) : capacité à prédire
+Exemple du parapluie en cas de jour de pluie
+-> Face à une situation problématique quelconque, on accède à notre mémoire
+pour prédire quelle serait la meilleure solution.
+
+Si on a jamais vécu X situation, notre mémoire seule ne nous aidera pas. On doit
+pouvoir généraliser.
+-> Extraire de notre mémoire le patron (pattern) ou motif que l'on pourra tenter de faire correspondre à
+une problématique nouvelle, mais similaire à une autre et pour laquelle nous avons déjà trouvé une solution.
+
+Généralisation : créer des patrons et les conserver
+Pattern matching (correspondance des patrons) : le patron qui convient le mieux et tenter de le faire correspondre (match) à une nouvelle situation.
+L'apprentissage machine repose sur ces principes.
+-> Emmagasiner des expériences pour en extraire des patrons (patterns) et donc entraîner notre système intelligent.
+-> Pouvoir prédire une solution en faisant correspondre un de ces patrons à la situation et évaluer la vraimsemblance de ette correspondance.
+
+Deep-Learning : simplement une technique au sein de l'apprentissage-machine avec un réseau de neurones
+
+En termes de développement, 2 PHASES :
+1. Training phase
+2. Testing phase
+
+Information structurée/contextualisée
+L'information que nous percevons à l'aide de nos sens nous est présentée de manière structurée (pomme verte MIAM, jambon vert DANGER)
+
+Comment faire pour utiliser le contexte dans une langue pour trouver des mots équivalents, similaires ou synonymes?
+	-> Nous connaissons tous notre grammaire (Sujet, verbe, complément, etc.)
+	-> Nous avons tous une connaissance au moins intuitive de la syntaxe qui régit ces éléments grammaticaux
+
+Hypothèse principale du cours :
+Un mot se retrouvant souvent à la même position, dans le même contexte a tendance à avoir la même fonction.
+-> Par exemple, un verbe a tendance à suivre le mot je.
+
+***Notre système intelligent ne servira pas à extraire la sémantique des mots, mais à identifier des mots qui ont une sémantique similaire.***
+
+
+« Ma chérie je t'aime »
+Ma et t' sont coocurrents dans le texte.
+On veut calculer le nombre de fois que chérie a été coocurrent par exemple avec « je » ou encore « aime »
+
+Phase #1 -> Associer un index unique à chaque mot
+Phase #2 -> Compter les coocurrences pour chaque mot
+
+Un vecteur de cooccurrences est donc un patron, une généralisation à partir des données. (la rangée du mot AMOUR dans l'exemple lui servira de patron!)
+Mais aussi, c'est une rangée dans la matrice, i.e. les coocurrences pour un mot donné.
+
+Un corpus d'entraînement = cumul de contextes.
+Des mots qui ont tendance à avoir le même contexte (fonction, position) ont tendance à avoir une sémantique similaire
+Comment mesurer cette tendance?
+-> On peut comparer le vecteur des mots
+On veut attribuer un score à cette comparaison
+Tout système intelligent doit pouvoir attribuer une valeur au pattern-match
+
+MÉTHODES DE COMPARAISON (3 méthodes)
+Mot recherché : (3 0 2) -- patate
+Mot #1 : (1 0 7) -- tomate
+Mot #2 : (2 1 4) -- raisin
+
+1. Produit scalaire - méthode de MAXIMISATION
+----------------
+Une opération qu'on peut faire avec deux vecteurs
+(a, b, c) * (d, e, f) = ab + be + cf
+On veut voir quel mot est le plus proche avec le produit scalaire
+Avec le mot #1 = 3 * 1 + 0 * 0 + 2 * 7 = 17
+Avec le mot #2 = 3 * 2 + 0 * 1 + 2 * 4 = 14
+
+2. Moindres-carrés (least-squares) - méthode de MINIMISATION
+-----------------
+Considérons le mot pour lequel on cherche un synonyme comme une moyenne
+On va faire la somme des différences des composantes (plutôt que leur produit)
+Mot #1: [(3-1)^2 + (0-0)^2 + (2-7)^2] = 29
+Mot #2: [(3-2)^2 + (0-1)^2 + (2-4)^2] = 6
+
+3. City-block (Manhattan distance) - méthode de MINIMISATION
+-----------------
+Valeurs absolues
+Mot #1: [|3-1| + |0-0| + |2-7|] = 7
+Mot #2: [|2-1| + |0-1| + |2-4|] = 4
+
+
+FENÊTRES
+Nous allons imaginer une fenêtre autour d'un mot
+- Disons que notre fenêtre est de taille 7 et que l'on cherche les coocurrences du mot central.
+	Le mot central ici est orange.
+	
+Une matrice pour TOUTE l'analyse, mais la fenêtre permet l'incrémentation des valeurs.
+Si on a 50 000 mots, on devra déplacer notre fenêtre 50 000 fois
+Ne pas tenir compte de la ponctuation pour l'instant
+
+STOP-WORDS
+On peut trouver des listes déjà en ligne. Très utiles lors de l'entraînement, mais exclus lors des résultats de prédiction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

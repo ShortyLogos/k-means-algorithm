@@ -1,0 +1,12 @@
+Ce qu'on fait :
+Espace hyperdimensionnel
+On dispose les mots dans un espace à n dimensions
+
+Produit scalaire :
+Pas rapport, juste pour montrer que des algos sont meilleurs que d'autres
+
+Least-squares :
+Le meilleur. Permet vraiment de trouver la distance entre les mots (calcu de l'hypothénuse)
+
+City-block :
+Correct comme algo
