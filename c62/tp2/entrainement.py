@@ -1,49 +1,57 @@
 import numpy as np
 import re
-from time import perf_counter
 
 class Entrainement:
-    def __init__(self, chemin, encodage, taille_fenetre):
+    def __init__(self, chemin: str, encodage: str, taille_fenetre: int) -> None:
         self.__chemin = chemin
         self.__encodage = encodage
         self.__taille_fenetre = taille_fenetre
         self.__cooccurrences = None
         self.__mots_uniques = {}
-        
-    @property
-    def cooccurrences(self):
-        return self.__cooccurrences
+        self.__liste_cooccurrences = None
 
     @property
-    def mots_uniques(self):
+    def mots_uniques(self) -> dict:
         return self.__mots_uniques
 
     @property
-    def encodage(self):
-        return self.__encodage
+    def cooccurrences(self) -> list:
+        liste = []
+        valeurs_positives = np.argwhere(self.__cooccurrences > 0)
+        for element in valeurs_positives:
+            index_mot = int(element[0])
+            index_mot2 = int(element[1])
+            valeur = int(self.__cooccurrences[index_mot][index_mot2])
+            liste.append((self.__taille_fenetre, index_mot, index_mot2, valeur))
+        return liste
 
-    def entrainer(self, verbose):
-        start_time_training = perf_counter()
+    def reconstruire(self, vocabulaire: dict, liste_cooccurrences: list) -> None:
+        self.__mots_uniques = vocabulaire
+        self.__liste_cooccurrences = liste_cooccurrences
+
+    def entrainer(self) -> None:
         self.__lire_texte()
         self.__extraire_mots_uniques()
         self.__analyser_texte()
-        if verbose: print("Training Execution time: " + str(perf_counter()-start_time_training))
             
-    def __lire_texte(self):
+    def __lire_texte(self) -> None:
         try:
             fichier = open(self.__chemin, 'r', encoding = self.__encodage)
             self.__texte_complet = re.findall("\w+", fichier.read().lower()) # on met en minuscule le texte pour éviter les doublons dûs à des majuscules
             fichier.close()
         except:
-            print("Une erreur est survenue durant la lecture du fichier.")
+            raise OSError("Une erreur est survenue durant la lecture du fichier.")
         
-    def __extraire_mots_uniques(self):
+    def __extraire_mots_uniques(self) -> None:
         for mot in self.__texte_complet:
             if mot not in self.__mots_uniques:
                 self.__mots_uniques[mot] = len(self.__mots_uniques) # avec le length, on obtient le bon index sans l'utilisation d'un itérateur
         
-    def __analyser_texte(self):
+    def __analyser_texte(self) -> None:
         self.__cooccurrences = np.zeros((len(self.__mots_uniques), len(self.__mots_uniques)))
+        if self.__liste_cooccurrences:
+            for mot1, mot2, score in self.__liste_cooccurrences:
+                self.__cooccurrences[mot1][mot2] = score
         demie_fenetre = self.__taille_fenetre // 2
         for i in range(len(self.__texte_complet)):
             for index in range(1, demie_fenetre + 1):
