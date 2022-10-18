@@ -21,12 +21,11 @@ SELECT_TEST_VOCABULAIRE = 'SELECT mot, index_mot FROM vocabulaire ORDER BY index
 CREER_COOCCURRENCES = '''
 CREATE TABLE IF NOT EXISTS cooccurrences
 (
-    id INTEGER PRIMARY KEY,
     taille INTEGER NOT NULL,
     index_mot INTEGER NOT NULL,
     index_mot2 INTEGER NOT NULL,
     score NUMBER NOT NULL,
-    UNIQUE(index_mot, index_mot2, taille)
+    PRIMARY KEY (index_mot, index_mot2, taille)
 )
 '''
 DROP_COOCCURRENCES = 'DROP TABLE IF EXISTS cooccurrences'

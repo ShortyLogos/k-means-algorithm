@@ -12,11 +12,12 @@ class Methode(IntEnum):
     CITY_BLOCK = 2
 
 class Prediction:
-    def __init__(self, liste_cooccurrences: list, mots_uniques: dict) -> None:
+    def __init__(self, liste_cooccurrences: list, mots_uniques: dict, verbose: bool = False) -> None:
         self.__mots_uniques = mots_uniques
         self.__matrice_cooccurrences = self.__construire_matrice(liste_cooccurrences)
         self.__resultats_tries = None
         self.__stopwords = None
+        self.__verbose = verbose
     
     @property
     def stopwords(self) -> list:
@@ -27,15 +28,16 @@ class Prediction:
         try:
             fichier_stopwords = open(chemin, 'r', encoding = 'utf-8')
             self.__stopwords = re.findall("\w+", fichier_stopwords.read().lower())
-            fichier_stopwords.close()
         except:
             print("Le fichier stopwords.txt n'a pas été trouvé. Les résultats risquent d'être pollués.")
+        finally:
+            fichier_stopwords.close()
 
     @property
     def resultats_tries(self) -> list:
         return self.__resultats_tries  
 
-    def predire(self, mot: str, nbr_reponses: int, methode_choisie: int, verbose: bool) -> None:
+    def predire(self, mot: str, nbr_reponses: int, methode_choisie: int) -> None:
         try:
             if mot is not None and nbr_reponses > 0:
                 self.__mot = mot
@@ -43,13 +45,13 @@ class Prediction:
                 self.__nbr_reponses = nbr_reponses
                 start_time_training = perf_counter()
                 self._prediction_algorithme(methode_choisie)
-                if verbose: print("Training Execution time: " + str(perf_counter()-start_time_training) + ('\n'*2))
+                if self.__verbose: print("Training Execution time: " + str(perf_counter()-start_time_training) + ('\n'*2))
         except KeyError as exception:
             print(f"{exception} n'existe pas dans nos données.")
         except ValueError as exception:
             print(exception)
         except Exception as exception:
-            if verbose:
+            if self.__verbose:
                 print(exception)
             print('Erreur imprévue. Veuillez réessayer.')
 

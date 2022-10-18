@@ -1,9 +1,25 @@
 import sqlite3
 import script
+from time import perf_counter
+import traceback
 
 class Dao:
-    def __init__(self) -> None:
+    def __init__(self, verbose: bool = False) -> None:
         self.chemin_bd = './mainBD.db'
+        self.__verbose = verbose
+        self.__start_time_training = perf_counter()
+
+    def __enter__(self):
+        self.connecter()
+        return self
+    
+    def __exit__(self, exc_type, exc_value, exc_tb):
+        self.deconnecter()
+        if isinstance(exc_value, Exception):
+            trace = traceback.format_exception(exc_type, exc_value, exc_tb)
+            print(''.join(trace))
+            return False
+        return True
 
     def connecter(self) -> None:
         self.connexion = sqlite3.connect(self.chemin_bd)
@@ -27,10 +43,12 @@ class Dao:
     def inserer_vocabulaire(self, vocabulaire: list) -> None:
         self.curseur.executemany(script.INSERT_VOCABULAIRE, vocabulaire)
         self.connexion.commit()
+        if self.__verbose: print("Insertion Vocabulaire Execution time: " + str(perf_counter()-self.__start_time_training))
 
     def inserer_cooccurrences(self, cooccurrences: list) -> None:
         self.curseur.executemany(script.INSERT_COOCCURRENCES, cooccurrences)
         self.connexion.commit()
+        if self.__verbose: print("Insertion Cooccurrences Execution time: " + str(perf_counter()-self.__start_time_training))
 
     def obtenir_donnees(self, taille: int) -> tuple[dict, list]:
         vocabulaire = {}
