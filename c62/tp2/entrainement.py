@@ -1,14 +1,17 @@
 import numpy as np
 import re
+from time import perf_counter
 
 class Entrainement:
-    def __init__(self, chemin: str, encodage: str, taille_fenetre: int) -> None:
+    def __init__(self, chemin: str, encodage: str, taille_fenetre: int, verbose: bool = False) -> None:
         self.__chemin = chemin
         self.__encodage = encodage
         self.__taille_fenetre = taille_fenetre
         self.__cooccurrences = None
         self.__mots_uniques = {}
         self.__liste_cooccurrences = None
+        self.__verbose = verbose
+        self.__start_time_training = perf_counter()
 
     @property
     def mots_uniques(self) -> dict:
@@ -28,11 +31,13 @@ class Entrainement:
     def reconstruire(self, vocabulaire: dict, liste_cooccurrences: list) -> None:
         self.__mots_uniques = vocabulaire
         self.__liste_cooccurrences = liste_cooccurrences
+        if self.__verbose: print("Reconstruction Execution time: " + str(perf_counter()-self.__start_time_training))
 
     def entrainer(self) -> None:
         self.__lire_texte()
         self.__extraire_mots_uniques()
         self.__analyser_texte()
+        if self.__verbose: print("Training Execution time: " + str(perf_counter()-self.__start_time_training))
             
     def __lire_texte(self) -> None:
         try:
