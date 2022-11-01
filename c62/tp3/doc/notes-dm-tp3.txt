@@ -1,0 +1,69 @@
+ALGORITHME DU COURS : K-MEANS ALGORITHM
+
+CONCEPT DE L'ALGORITHME :
+	Chaque centroïde est un point de gravité.
+	On doit vérifier la distance de chaque point dans le nuage de points
+	par rapport à chaque centroïde (on va utiliser numpy pour ça).
+	
+	Chacun des centroïdes se déplace jusqu'à temps que l'équilibre soit trouvé
+	(une prochaine itération ne change rien au nombre de données dans chaque cluster).
+	Pour mieux comprendre : visualiser qu'on tient un cabaret sur un doigt et que l'exercice se conclut
+	lorsque le cabaret est parfaitement stabilitsé.
+	
+	Possible qu'on doit faire une autre matrice pour les centroïdes.
+	Leurs valeurs vont être des float (distance = valeur réelle, pas entière). S'assurer que toutes les matrices soient des floats.
+	Conserver l'information d'une manière ou d'une autre sur le précédent centroïde de chaque mot afin de savoir si on continue de boucler ou pas.
+	Si aucun changement pour l'ensemble des points dans le nuage de point, alors l'algorithme a terminé son travail et on arrête l'exécution.
+
+
+Les squares vont être notre ami
+On va utiliser Pythagore pour calculer la distance entre les mots
+
+Pour TP3:
+-> ON EFFECTUE LES TESTS DONT ON A BESOIN ET ON STOCKE DANS BD. 
+ON REMET LA BD POUR ÉVITER LA NÉCESSITÉ DE RÉENTRAINER.
+-> Lors de l'utilisation du TP3, ON NE RÉENTRAINE PAS, ON FAIT DE LA RECHERCHE À PARTIR DE NOS DONNÉES.
+-> On arrache la stoplist (on veut prendre en compte ces mots).
+
+
+-------------------------------------
+Déroulement des opérations TP3 :
+INIT :
+	// PLACEMENT INITIAL DES CENTROÏDES
+	+ On choisit k mots au hasard pour obtenir leurs coordoonnées. On utilise ces coordoonnées pour placer les centroïdes à l'initialisation.
+	Attention, ces mots ne deviennt PAS les centroïdes.
+	
+BOUCLE :
+	// Déterminer le centroïde le plus près pour chaque point (mot) -> On va utiliser Pythagore/Least-squares pour cette étape
+	// On calcule les nouvelles coordoonnées du centroïde en effectuant une moyenne des coordonnées de tous les points (mots) du cluster
+		Formule : 𝐺=1/𝑛(𝐴_1+𝐴_2+…+𝐴_𝑛)
+	// On effectue une autre itération tant qu'un point dans le système a changé de cluster
+
+-------------------------------------
+
+// POUR LE RAPPORT DE LAB :
++ Que peut-on déduire des clusters produits ? Se rattachent-ils à des concepts généraux ? Sont-ils tous significatifs, partiellement ou aucun d'entre eux ne l'est?
++ Appuyer nos remarques par les chiffres si possible
++ Qu'est-ce que le nombre de cluster change?
++ Qu'est-ce qui peut affecter la taille des clusters?
+
+// POUR TP3 :
+Notre main va juste avoir plus d'options via argparse
+ex : main.py -c -t 5 -k 5 -n 10
+
+-> Les performances de temps ne sont pas un critère d'évaluation pour TP3
+-> METTRE LES TRACES POUR CHAQUE ITÉRATIONS (voir l'exemple res3textes_t5_k5_n10.txt
+
+**IL SE PEUT QUE ÇA PRENNE PLUSIEURS HEURES FAIRE UNE EXÉCUTION AVEC PLUSIEURS CLUSTERS
+On output nos résultats comme ça : main.py -c -t 5 -n 10 -k 2 > res_t5_k2_4textes.txt // on se fait une convention pour le nom de fichier
+
+
+
+// IDÉE D'INNOVATION :
++ Générer plusieurs BD à partir de types de textes différents (Littéraire, Juridique, Scientifique)
+
+
+
+// Exercice intéractif pour mieux visualiser le déroulement de l'algorithme :
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+Choisir "I'll Choose" et ensuite "Uniform"

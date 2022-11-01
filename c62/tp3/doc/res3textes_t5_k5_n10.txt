@@ -1,0 +1,481 @@
+Itération 0 effectuée en 5.27893590927124 secondes (25402 changements)
+
+Il y a 927.0 mots appartenant au centroïde 0
+Il y a 17665.0 mots appartenant au centroïde 1
+Il y a 1359.0 mots appartenant au centroïde 2
+Il y a 3692.0 mots appartenant au centroïde 3
+Il y a 1759.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 1 effectuée en 4.953823804855347 secondes (5285 changements)
+
+Il y a 294.0 mots appartenant au centroïde 0
+Il y a 19077.0 mots appartenant au centroïde 1
+Il y a 1652.0 mots appartenant au centroïde 2
+Il y a 2797.0 mots appartenant au centroïde 3
+Il y a 1582.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 2 effectuée en 4.9624292850494385 secondes (2908 changements)
+
+Il y a 102.0 mots appartenant au centroïde 0
+Il y a 19004.0 mots appartenant au centroïde 1
+Il y a 1096.0 mots appartenant au centroïde 2
+Il y a 4226.0 mots appartenant au centroïde 3
+Il y a 974.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 3 effectuée en 4.816276550292969 secondes (2288 changements)
+
+Il y a 54.0 mots appartenant au centroïde 0
+Il y a 19355.0 mots appartenant au centroïde 1
+Il y a 697.0 mots appartenant au centroïde 2
+Il y a 4699.0 mots appartenant au centroïde 3
+Il y a 597.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 4 effectuée en 4.816625356674194 secondes (1402 changements)
+
+Il y a 42.0 mots appartenant au centroïde 0
+Il y a 20434.0 mots appartenant au centroïde 1
+Il y a 896.0 mots appartenant au centroïde 2
+Il y a 3672.0 mots appartenant au centroïde 3
+Il y a 358.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 5 effectuée en 4.82839035987854 secondes (825 changements)
+
+Il y a 33.0 mots appartenant au centroïde 0
+Il y a 21000.0 mots appartenant au centroïde 1
+Il y a 930.0 mots appartenant au centroïde 2
+Il y a 3205.0 mots appartenant au centroïde 3
+Il y a 234.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 6 effectuée en 4.773773908615112 secondes (695 changements)
+
+Il y a 30.0 mots appartenant au centroïde 0
+Il y a 21399.0 mots appartenant au centroïde 1
+Il y a 799.0 mots appartenant au centroïde 2
+Il y a 3018.0 mots appartenant au centroïde 3
+Il y a 156.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 7 effectuée en 4.834504842758179 secondes (704 changements)
+
+Il y a 27.0 mots appartenant au centroïde 0
+Il y a 21837.0 mots appartenant au centroïde 1
+Il y a 648.0 mots appartenant au centroïde 2
+Il y a 2787.0 mots appartenant au centroïde 3
+Il y a 103.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 8 effectuée en 4.802232980728149 secondes (725 changements)
+
+Il y a 23.0 mots appartenant au centroïde 0
+Il y a 22341.0 mots appartenant au centroïde 1
+Il y a 503.0 mots appartenant au centroïde 2
+Il y a 2464.0 mots appartenant au centroïde 3
+Il y a 71.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 9 effectuée en 4.874563455581665 secondes (633 changements)
+
+Il y a 17.0 mots appartenant au centroïde 0
+Il y a 22830.0 mots appartenant au centroïde 1
+Il y a 419.0 mots appartenant au centroïde 2
+Il y a 2086.0 mots appartenant au centroïde 3
+Il y a 50.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 10 effectuée en 4.856632947921753 secondes (519 changements)
+
+Il y a 14.0 mots appartenant au centroïde 0
+Il y a 23226.0 mots appartenant au centroïde 1
+Il y a 323.0 mots appartenant au centroïde 2
+Il y a 1798.0 mots appartenant au centroïde 3
+Il y a 41.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 11 effectuée en 4.80403470993042 secondes (448 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 23585.0 mots appartenant au centroïde 1
+Il y a 252.0 mots appartenant au centroïde 2
+Il y a 1517.0 mots appartenant au centroïde 3
+Il y a 38.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 12 effectuée en 4.832343578338623 secondes (339 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 23870.0 mots appartenant au centroïde 1
+Il y a 204.0 mots appartenant au centroïde 2
+Il y a 1283.0 mots appartenant au centroïde 3
+Il y a 35.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 13 effectuée en 4.9562718868255615 secondes (262 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24097.0 mots appartenant au centroïde 1
+Il y a 171.0 mots appartenant au centroïde 2
+Il y a 1090.0 mots appartenant au centroïde 3
+Il y a 34.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 14 effectuée en 4.9435200691223145 secondes (216 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24286.0 mots appartenant au centroïde 1
+Il y a 144.0 mots appartenant au centroïde 2
+Il y a 928.0 mots appartenant au centroïde 3
+Il y a 34.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 15 effectuée en 4.863469123840332 secondes (177 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24435.0 mots appartenant au centroïde 1
+Il y a 118.0 mots appartenant au centroïde 2
+Il y a 806.0 mots appartenant au centroïde 3
+Il y a 33.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 16 effectuée en 5.009741544723511 secondes (131 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24548.0 mots appartenant au centroïde 1
+Il y a 100.0 mots appartenant au centroïde 2
+Il y a 711.0 mots appartenant au centroïde 3
+Il y a 33.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 17 effectuée en 5.135138034820557 secondes (116 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24650.0 mots appartenant au centroïde 1
+Il y a 90.0 mots appartenant au centroïde 2
+Il y a 621.0 mots appartenant au centroïde 3
+Il y a 31.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 18 effectuée en 4.813145637512207 secondes (97 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24730.0 mots appartenant au centroïde 1
+Il y a 73.0 mots appartenant au centroïde 2
+Il y a 558.0 mots appartenant au centroïde 3
+Il y a 31.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 19 effectuée en 5.096924066543579 secondes (85 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24805.0 mots appartenant au centroïde 1
+Il y a 65.0 mots appartenant au centroïde 2
+Il y a 492.0 mots appartenant au centroïde 3
+Il y a 30.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 20 effectuée en 4.881227016448975 secondes (53 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24849.0 mots appartenant au centroïde 1
+Il y a 58.0 mots appartenant au centroïde 2
+Il y a 456.0 mots appartenant au centroïde 3
+Il y a 29.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 21 effectuée en 5.597807168960571 secondes (37 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24880.0 mots appartenant au centroïde 1
+Il y a 52.0 mots appartenant au centroïde 2
+Il y a 431.0 mots appartenant au centroïde 3
+Il y a 29.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 22 effectuée en 5.2838733196258545 secondes (29 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24903.0 mots appartenant au centroïde 1
+Il y a 50.0 mots appartenant au centroïde 2
+Il y a 412.0 mots appartenant au centroïde 3
+Il y a 27.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 23 effectuée en 4.977032423019409 secondes (23 changements)
+
+Il y a 10.0 mots appartenant au centroïde 0
+Il y a 24920.0 mots appartenant au centroïde 1
+Il y a 48.0 mots appartenant au centroïde 2
+Il y a 399.0 mots appartenant au centroïde 3
+Il y a 25.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 24 effectuée en 4.914921998977661 secondes (31 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 24943.0 mots appartenant au centroïde 1
+Il y a 41.0 mots appartenant au centroïde 2
+Il y a 383.0 mots appartenant au centroïde 3
+Il y a 26.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 25 effectuée en 4.986432075500488 secondes (35 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 24967.0 mots appartenant au centroïde 1
+Il y a 34.0 mots appartenant au centroïde 2
+Il y a 368.0 mots appartenant au centroïde 3
+Il y a 24.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 26 effectuée en 5.164660215377808 secondes (38 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 24999.0 mots appartenant au centroïde 1
+Il y a 32.0 mots appartenant au centroïde 2
+Il y a 340.0 mots appartenant au centroïde 3
+Il y a 22.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 27 effectuée en 4.935885906219482 secondes (30 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25024.0 mots appartenant au centroïde 1
+Il y a 29.0 mots appartenant au centroïde 2
+Il y a 319.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 28 effectuée en 4.792554616928101 secondes (14 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25037.0 mots appartenant au centroïde 1
+Il y a 28.0 mots appartenant au centroïde 2
+Il y a 307.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 29 effectuée en 4.878665447235107 secondes (9 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25045.0 mots appartenant au centroïde 1
+Il y a 27.0 mots appartenant au centroïde 2
+Il y a 300.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 30 effectuée en 4.845946311950684 secondes (5 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25049.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 297.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 31 effectuée en 4.872133016586304 secondes (6 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25055.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 291.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 32 effectuée en 5.093199968338013 secondes (7 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25062.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 284.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 33 effectuée en 4.89768648147583 secondes (4 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25066.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 280.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 34 effectuée en 4.8878631591796875 secondes (3 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25069.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 277.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 35 effectuée en 4.923226356506348 secondes (3 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25072.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 274.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 36 effectuée en 4.864410400390625 secondes (4 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25076.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 270.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 37 effectuée en 4.871751546859741 secondes (4 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25080.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 266.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 38 effectuée en 4.753841876983643 secondes (6 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25086.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 260.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 39 effectuée en 4.814790964126587 secondes (2 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25088.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 258.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 40 effectuée en 4.897056579589844 secondes (2 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25090.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 256.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Itération 41 effectuée en 4.9617040157318115 secondes (0 changements)
+
+Il y a 9.0 mots appartenant au centroïde 0
+Il y a 25090.0 mots appartenant au centroïde 1
+Il y a 26.0 mots appartenant au centroïde 2
+Il y a 256.0 mots appartenant au centroïde 3
+Il y a 21.0 mots appartenant au centroïde 4
+
+***************************************************************
+
+Clustering effectué en 41 itérations en un temps de 207.35142421722412 secondes.
+
+Pour le cluster 0:
+	et --> 1834309.4814814816
+	à --> 2721167.481481481
+	le --> 2782727.9259259263
+	les --> 3003345.0370370373
+	l --> 3115610.148148149
+	il --> 7585485.925925924
+	d --> 7703388.592592591
+	la --> 13699387.25925926
+	de --> 22136860.81481481
+
+Pour le cluster 1:
+	coque --> 5.0083923336331955
+	continuité --> 5.277742672413587
+	vigilance --> 5.301417443238615
+	abrutissement --> 5.302055147503263
+	embouchure --> 5.302055147503263
+	scrofule --> 5.342629081341445
+	usages --> 5.350281532517212
+	cadencement --> 5.4878662276148615
+	approuvant --> 5.528121309320721
+	avènement --> 5.636291895211515
+
+Pour le cluster 2:
+	mais --> 118973.84319526628
+	même --> 122792.68934911242
+	tout --> 128919.38165680472
+	par --> 147320.61242603548
+	comme --> 154840.30473372774
+	si --> 170400.84319526618
+	avec --> 176413.3047337278
+	plus --> 189880.07396449707
+	pour --> 204322.76627218936
+	deux --> 229082.5355029586
+
+Pour le cluster 3:
+	prendre --> 4044.7809448242188
+	florent --> 4440.937194824219
+	cependant --> 4965.241882324219
+	seulement --> 5563.273132324219
+	enfin --> 5819.780944824219
+	mort --> 5972.601257324219
+	mal --> 5988.468444824219
+	force --> 6701.296569824219
+	parler --> 6779.937194824219
+	maintenant --> 6861.726257324219
+
+Pour le cluster 4:
+	lui --> 326096.15419501136
+	en --> 566318.8208616779
+	se --> 623055.2970521543
+	qui --> 803916.7256235826
+	s --> 892684.6303854876
+	des --> 1047209.2970521542
+	était --> 1062376.1541950114
+	ce --> 1064531.2018140592
+	avait --> 1151973.1065759638
+	elle --> 1217215.3922902497
+
