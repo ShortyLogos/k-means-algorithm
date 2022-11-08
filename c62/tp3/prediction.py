@@ -57,7 +57,7 @@ class Prediction:
 
     def __construire_matrice(self, liste_cooccurrences: list) -> np.array:
         matrice = np.zeros((len(self.__mots_uniques), len(self.__mots_uniques)))
-        if len(liste_cooccurrences)>0:
+        if len(liste_cooccurrences) > 0:
             for mot1, mot2, score in liste_cooccurrences:
                 matrice[mot1][mot2] = score
         return matrice
@@ -82,10 +82,10 @@ class Prediction:
         return np.dot(self.__vecteur_mot, vecteur_compare)
     
     def __operation_moindre_carres(self, vecteur_compare: np.array) -> Score:
-        return np.sum((self.__vecteur_mot-vecteur_compare)**2)
+        return np.sum((self.__vecteur_mot - vecteur_compare)**2)
         
     def __operation_city_block(self, vecteur_compare: np.array) -> Score:
-        return np.sum(np.abs(self.__vecteur_mot-vecteur_compare))
+        return np.sum(np.abs(self.__vecteur_mot - vecteur_compare))
     
     def __prediction(self, fonction: Callable, maximiser: bool) -> list:
         liste_resultats = []
