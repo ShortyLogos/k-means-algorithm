@@ -90,41 +90,30 @@ class KMeans:
         if self.__nb_generations != 0:
             print(f"\nEffectuée en {str(perf_counter() - self.__temps_iteration)} secondes. ({self.__nb_changements} changements)\n")
         else:
-            print(f"\nEffectuée en X secondes.\n")
+            print(f"\nEffectuée en {str(perf_counter() - self.__temps_iteration)} secondes.\n")
         print("**********************************")
         
     def __imprimer_iteration(self) -> None:
         print(f'\nItération {self.__nb_generations}\n')
         
     def __imprimer_resultats_clusters(self) -> None:
-        clusters = [[]] * self.__k
-        clusters[0] = [1]
-        clusters[1] = [3]
-        clusters[2] = [5]
-        print("hard-coded", clusters)
-        
-        liste_bidon = [1, 2, 1, 0, 2, 2]
-        for point, index_cluster in enumerate(liste_bidon):
-            # distance = self.__operation_moindre_carres(self.__cooccurrences[index_point], self.__centroides[index_cluster])
-            clusters[index_cluster].append([point])
+        clusters = [[] for _ in range(self.__k)]
             
-        # for index_point, index_cluster in enumerate(self.__clusters_precedents):
-        #     distance = self.__operation_moindre_carres(self.__cooccurrences[index_point], self.__centroides[index_cluster])
-        #     clusters[index_cluster].append((self.__donnees_uniques[index_point], distance))
+        for index_point, index_cluster in enumerate(self.__clusters_precedents):
+            distance = self.__operation_moindre_carres(self.__cooccurrences[index_point], self.__centroides[index_cluster])
+            clusters[index_cluster].append((self.__donnees_uniques[index_point], distance))
             
-        print(clusters)
-            
-        # for index, cluster in enumerate(clusters):
-        #     print(f"Pour le cluster {index}:")
-        #     cluster = sorted(cluster, key = lambda x:x[1], reverse = False)
-        #     for donnee, distance in cluster[:self.__nb_resultats]:
-        #         print(f"{donnee} --> {distance}")
-        #     print('\n')
+        for index, cluster in enumerate(clusters):
+            print(f"Pour le cluster {index}:")
+            cluster = sorted(cluster, key = lambda x:x[1], reverse = False)
+            for donnee, distance in cluster[:self.__nb_resultats]:
+                print(f"\t{donnee} --> {distance}")
+            print('\n')
             
     def __imprimer_resultats(self) -> None:
         print("\nFIN DE L'ALGORITHME KMEANS\n")
         print(f"Clustering effectué en {self.__nb_generations} itérations.")
-        print(f"Durée totale de l'exécution: {str(perf_counter() - self.__temps_completion)} secondes.")
+        print(f"Durée totale de l'exécution: {str(perf_counter() - self.__temps_completion)} secondes.\n")
         self.__imprimer_resultats_clusters()
 
     def equilibrer(self) -> None:
@@ -143,7 +132,7 @@ class KMeans:
 def main():
     bd = Dao()
     bd.connecter()
-    partionnement(bd, 5, 3, 9)
+    partionnement(bd, 5, 5, 9)
     bd.deconnecter()
 
     return 0
