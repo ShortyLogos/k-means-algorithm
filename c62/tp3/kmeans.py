@@ -5,27 +5,29 @@
 # il faut penser à inclure les stopwords pour le tp3
 
 from dao import Dao
+from time import perf_counter
 import numpy as np
 import random
 
 # méthode qui sera utilisée par le main/argparse
-def partionnement(bd: Dao, taille: int, k : int):
+def partionnement(bd: Dao, taille: int, k: int, nb_mots: int):
     donnees_uniques, liste_cooccurrences = bd.obtenir_donnees(taille)
-    kmeans = KMeans(taille, k, liste_cooccurrences, donnees_uniques)
+    kmeans = KMeans(k, liste_cooccurrences, donnees_uniques, nb_mots)
     kmeans.equilibrer()
 
 class KMeans:
-    def __init__(self, taille_fenetre : int, k : int, liste_cooccurrences: list, donnees_uniques: dict):
+    def __init__(self, k: int, liste_cooccurrences: list, donnees_uniques: dict, nb_mots: int):
         self.__k = k
-        self.__taille_fenetre = taille_fenetre
         self.__dimensions = len(donnees_uniques)
         self.__cooccurrences = self.__construire_matrice_cooccurrences(liste_cooccurrences)
         self.__centroides = self.__construire_matrice_centroides()
-        self.__clusters_precedents = np.zeros(self.__dimensions)
-        self.__clusters_nouveaux = np.zeros(self.__dimensions)
+        self.__clusters_precedents = np.arange(self.__dimensions)
+        self.__clusters_nouveaux = np.arange(self.__dimensions)
+        self.__centroide_nb_mots = np.zeros(self.__k)
         self.__nb_changements = 0
         self.__nb_generations = 0
         self.__equilibre = False
+        self.__nb_mots_affiches = nb_mots
         
     def __construire_matrice_cooccurrences(self, liste_cooccurrences) -> np.array:
         matrice = np.zeros((self.__dimensions, self.__dimensions))
@@ -34,8 +36,7 @@ class KMeans:
                 matrice[point1, point2] = score
         return matrice
     
-    # on initialise les centroïdes à des coordoonées intelligentes 
-    # on prend celles de points de données au hasard
+    # on initialise les centroïdes à des coordoonées intelligentes -> on prend celles de points de données au hasard
     def __construire_matrice_centroides(self) -> np.array:
         matrice = np.zeros((self.__k, self.__dimensions))
         points_choisis = []
@@ -55,37 +56,52 @@ class KMeans:
         return np.sum((vecteur_point - vecteur_centroide)**2)
     
     # les nouvelles coordonnées d'un centroide sont déterminées en faisant la moyenne des points appartenant à son cluster
-    def __determiner_centroides(self):
+    def __determiner_centroides(self) -> None:
+        self.__centroide_nb_mots = np.zeros(self.__k)
         for i, point in enumerate(self.__cooccurrences):
             distances = []
             for centroide in self.__centroides:
                 distances.append(self.__operation_moindre_carres(point, centroide))
                 self.__clusters_nouveaux[i] = distances.index(min((distances)))
+                self.__centroide_nb_mots[self.__clusters_nouveaux[i]] += 1
                 
-    def __verifier_equilibre(self):
+    # on vérifie si l'équilibre a été atteint, autrement on poursuit les itérations            
+    def __verifier_equilibre(self) -> None:
         if self.__nb_generations != 0:
             changements = np.not_equal(self.__clusters_nouveaux, self.__clusters_precedents)
             self.__nb_changements = sum(changements.astype(int))
-            print("nombre de changements:", self.__nb_changements)
-            self.__clusters_precedents = np.copy(self.__clusters_nouveaux)
+            self.__clusters_precedents = self.__clusters_nouveaux
+            self.__clusters_nouveaux = np.arange(self.__dimensions)
             if self.__nb_changements == 0:
                 self.__equilibre = True
     
-    # les nouvelles coordonnées d'un centroide sont déterminées en faisant la moyenne des points appartenant à son cluster
-    def __nouvelles_coordonnees(self):
-        for index_centroide, _ in enumerate(self.__centroides):
+    def __nouvelles_coordonnees(self) -> None:
+        for index_centroide in range(self.__k):
             points = np.where(self.__clusters_nouveaux == index_centroide)[0]
             self.__centroides[index_centroide] = np.mean([self.__cooccurrences[index_point] for index_point in points], axis=0)
-            print("coord. du centroide ", index_centroide, " : ", self.__centroides[index_centroide])
-    
-    # méthode qui s'occupera de trouver de manière itérative le point d'équilibre pour tous les centroïdes
-    # lorsqu'aucun point de donnée n'a changé de cluster (le centroide), 
-    # on considère que l'équilibre a été trouvé et on cesse l'exécution de l'algo
+            self.__imprimer_nb_mots(index_centroide)
+            
+    def __imprimer_nb_mots(self, index_centroide) -> None:
+        print(f"Il y a {self.__centroide_nb_mots[index_centroide]} mots appartenant au centroïde {index_centroide}.")
+        
+    def __imprimer_changements(self) -> None:
+        if self.__nb_generations != 0:
+            print(f"\nEffectuée en {str(perf_counter() - self.__temps_iteration)} secondes. ({self.__nb_changements} changements)\n")
+        else:
+            print(f"\nEffectuée en X secondes.\n")
+        print("**********************************")
+        
+    def __imprimer_iteration(self) -> None:
+        print(f'\nItération {self.__nb_generations}\n')
+
     def equilibrer(self) -> None:
         while self.__equilibre is False:
+            self.__temps_iteration = perf_counter()
+            self.__imprimer_iteration()
             self.__determiner_centroides()
             self.__nouvelles_coordonnees()
             self.__verifier_equilibre()
+            self.__imprimer_changements()
             if not self.__equilibre:
                 self.__nb_generations += 1
         print("\nFIN DE L'ALGORITHME KMEANS")
@@ -93,8 +109,7 @@ class KMeans:
 def main():
     bd = Dao()
     bd.connecter()
-    bd.afficher()
-    partionnement(bd, 5, 5)
+    partionnement(bd, 5, 5, 9)
     bd.deconnecter()
 
     return 0
