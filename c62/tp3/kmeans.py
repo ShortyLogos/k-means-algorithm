@@ -10,15 +10,17 @@ import numpy as np
 import random
 
 # méthode qui sera utilisée par le main/argparse
-def partionnement(bd: Dao, taille: int, k: int, nb_mots: int):
+def partionnement(bd: Dao, taille: int, k: int, nb_resultats: int):
     donnees_uniques, liste_cooccurrences = bd.obtenir_donnees(taille)
-    kmeans = KMeans(k, liste_cooccurrences, donnees_uniques, nb_mots)
+    kmeans = KMeans(k, liste_cooccurrences, donnees_uniques, nb_resultats)
     kmeans.equilibrer()
 
 class KMeans:
-    def __init__(self, k: int, liste_cooccurrences: list, donnees_uniques: dict, nb_mots: int):
+    def __init__(self, k: int, liste_cooccurrences: list, donnees_uniques: dict, nb_resultats: int):
+        self.__temps_completion = perf_counter()
         self.__k = k
         self.__dimensions = len(donnees_uniques)
+        self.__donnees_uniques = list(donnees_uniques.keys())
         self.__cooccurrences = self.__construire_matrice_cooccurrences(liste_cooccurrences)
         self.__centroides = self.__construire_matrice_centroides()
         self.__clusters_precedents = np.arange(self.__dimensions)
@@ -27,7 +29,7 @@ class KMeans:
         self.__nb_changements = 0
         self.__nb_generations = 0
         self.__equilibre = False
-        self.__nb_mots_affiches = nb_mots
+        self.__nb_resultats = nb_resultats
         
     def __construire_matrice_cooccurrences(self, liste_cooccurrences) -> np.array:
         matrice = np.zeros((self.__dimensions, self.__dimensions))
@@ -93,6 +95,37 @@ class KMeans:
         
     def __imprimer_iteration(self) -> None:
         print(f'\nItération {self.__nb_generations}\n')
+        
+    def __imprimer_resultats_clusters(self) -> None:
+        clusters = [[]] * self.__k
+        clusters[0] = [1]
+        clusters[1] = [3]
+        clusters[2] = [5]
+        print("hard-coded", clusters)
+        
+        liste_bidon = [1, 2, 1, 0, 2, 2]
+        for point, index_cluster in enumerate(liste_bidon):
+            # distance = self.__operation_moindre_carres(self.__cooccurrences[index_point], self.__centroides[index_cluster])
+            clusters[index_cluster].append([point])
+            
+        # for index_point, index_cluster in enumerate(self.__clusters_precedents):
+        #     distance = self.__operation_moindre_carres(self.__cooccurrences[index_point], self.__centroides[index_cluster])
+        #     clusters[index_cluster].append((self.__donnees_uniques[index_point], distance))
+            
+        print(clusters)
+            
+        # for index, cluster in enumerate(clusters):
+        #     print(f"Pour le cluster {index}:")
+        #     cluster = sorted(cluster, key = lambda x:x[1], reverse = False)
+        #     for donnee, distance in cluster[:self.__nb_resultats]:
+        #         print(f"{donnee} --> {distance}")
+        #     print('\n')
+            
+    def __imprimer_resultats(self) -> None:
+        print("\nFIN DE L'ALGORITHME KMEANS\n")
+        print(f"Clustering effectué en {self.__nb_generations} itérations.")
+        print(f"Durée totale de l'exécution: {str(perf_counter() - self.__temps_completion)} secondes.")
+        self.__imprimer_resultats_clusters()
 
     def equilibrer(self) -> None:
         while self.__equilibre is False:
@@ -104,12 +137,13 @@ class KMeans:
             self.__imprimer_changements()
             if not self.__equilibre:
                 self.__nb_generations += 1
-        print("\nFIN DE L'ALGORITHME KMEANS")
+        self.__imprimer_resultats()
+
 
 def main():
     bd = Dao()
     bd.connecter()
-    partionnement(bd, 5, 5, 9)
+    partionnement(bd, 5, 3, 9)
     bd.deconnecter()
 
     return 0
