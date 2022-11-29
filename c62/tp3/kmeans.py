@@ -132,7 +132,7 @@ class KMeans:
 def main():
     bd = Dao()
     bd.connecter()
-    partionnement(bd, 5, 40, 10)
+    partionnement(bd, 7, 30, 12)
     bd.deconnecter()
 
     return 0
