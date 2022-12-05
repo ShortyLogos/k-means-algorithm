@@ -1,0 +1,3507 @@
+Itération 0
+
+Il y a 27692.0 mots appartenant au centroïde 0.
+Il y a 43781.0 mots appartenant au centroïde 1.
+Il y a 23756.0 mots appartenant au centroïde 2.
+Il y a 126361.0 mots appartenant au centroïde 3.
+Il y a 2834.0 mots appartenant au centroïde 4.
+Il y a 30786.0 mots appartenant au centroïde 5.
+Il y a 14310.0 mots appartenant au centroïde 6.
+Il y a 2389.0 mots appartenant au centroïde 7.
+Il y a 35330.0 mots appartenant au centroïde 8.
+Il y a 42202.0 mots appartenant au centroïde 9.
+Il y a 3112.0 mots appartenant au centroïde 10.
+Il y a 6908.0 mots appartenant au centroïde 11.
+Il y a 23389.0 mots appartenant au centroïde 12.
+Il y a 3121.0 mots appartenant au centroïde 13.
+Il y a 8801.0 mots appartenant au centroïde 14.
+Il y a 401.0 mots appartenant au centroïde 15.
+Il y a 16727.0 mots appartenant au centroïde 16.
+Il y a 9097.0 mots appartenant au centroïde 17.
+Il y a 3169.0 mots appartenant au centroïde 18.
+Il y a 2637.0 mots appartenant au centroïde 19.
+Il y a 3296.0 mots appartenant au centroïde 20.
+Il y a 2046.0 mots appartenant au centroïde 21.
+Il y a 7680.0 mots appartenant au centroïde 22.
+Il y a 3554.0 mots appartenant au centroïde 23.
+Il y a 916.0 mots appartenant au centroïde 24.
+Il y a 1115.0 mots appartenant au centroïde 25.
+Il y a 1670.0 mots appartenant au centroïde 26.
+Il y a 5407.0 mots appartenant au centroïde 27.
+Il y a 1425.0 mots appartenant au centroïde 28.
+Il y a 858.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.698151899967343 secondes.
+
+**********************************
+
+Itération 1
+
+Il y a 28881.0 mots appartenant au centroïde 0.
+Il y a 47263.0 mots appartenant au centroïde 1.
+Il y a 17811.0 mots appartenant au centroïde 2.
+Il y a 85249.0 mots appartenant au centroïde 3.
+Il y a 1306.0 mots appartenant au centroïde 4.
+Il y a 91833.0 mots appartenant au centroïde 5.
+Il y a 23711.0 mots appartenant au centroïde 6.
+Il y a 3000.0 mots appartenant au centroïde 7.
+Il y a 3485.0 mots appartenant au centroïde 8.
+Il y a 26306.0 mots appartenant au centroïde 9.
+Il y a 2121.0 mots appartenant au centroïde 10.
+Il y a 6041.0 mots appartenant au centroïde 11.
+Il y a 24589.0 mots appartenant au centroïde 12.
+Il y a 475.0 mots appartenant au centroïde 13.
+Il y a 9580.0 mots appartenant au centroïde 14.
+Il y a 1801.0 mots appartenant au centroïde 15.
+Il y a 20462.0 mots appartenant au centroïde 16.
+Il y a 7816.0 mots appartenant au centroïde 17.
+Il y a 4709.0 mots appartenant au centroïde 18.
+Il y a 18682.0 mots appartenant au centroïde 19.
+Il y a 4829.0 mots appartenant au centroïde 20.
+Il y a 2272.0 mots appartenant au centroïde 21.
+Il y a 6377.0 mots appartenant au centroïde 22.
+Il y a 2400.0 mots appartenant au centroïde 23.
+Il y a 980.0 mots appartenant au centroïde 24.
+Il y a 625.0 mots appartenant au centroïde 25.
+Il y a 1148.0 mots appartenant au centroïde 26.
+Il y a 6900.0 mots appartenant au centroïde 27.
+Il y a 3067.0 mots appartenant au centroïde 28.
+Il y a 1051.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.267935400013812 secondes. (15158 changements)
+
+**********************************
+
+Itération 2
+
+Il y a 29070.0 mots appartenant au centroïde 0.
+Il y a 42230.0 mots appartenant au centroïde 1.
+Il y a 14988.0 mots appartenant au centroïde 2.
+Il y a 73365.0 mots appartenant au centroïde 3.
+Il y a 692.0 mots appartenant au centroïde 4.
+Il y a 114179.0 mots appartenant au centroïde 5.
+Il y a 29108.0 mots appartenant au centroïde 6.
+Il y a 2641.0 mots appartenant au centroïde 7.
+Il y a 1100.0 mots appartenant au centroïde 8.
+Il y a 11307.0 mots appartenant au centroïde 9.
+Il y a 1642.0 mots appartenant au centroïde 10.
+Il y a 5785.0 mots appartenant au centroïde 11.
+Il y a 17957.0 mots appartenant au centroïde 12.
+Il y a 246.0 mots appartenant au centroïde 13.
+Il y a 8444.0 mots appartenant au centroïde 14.
+Il y a 1959.0 mots appartenant au centroïde 15.
+Il y a 17294.0 mots appartenant au centroïde 16.
+Il y a 5955.0 mots appartenant au centroïde 17.
+Il y a 5517.0 mots appartenant au centroïde 18.
+Il y a 42804.0 mots appartenant au centroïde 19.
+Il y a 5391.0 mots appartenant au centroïde 20.
+Il y a 1458.0 mots appartenant au centroïde 21.
+Il y a 5509.0 mots appartenant au centroïde 22.
+Il y a 1938.0 mots appartenant au centroïde 23.
+Il y a 864.0 mots appartenant au centroïde 24.
+Il y a 655.0 mots appartenant au centroïde 25.
+Il y a 1200.0 mots appartenant au centroïde 26.
+Il y a 7216.0 mots appartenant au centroïde 27.
+Il y a 3131.0 mots appartenant au centroïde 28.
+Il y a 1125.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.26148570002988 secondes. (3167 changements)
+
+**********************************
+
+Itération 3
+
+Il y a 29451.0 mots appartenant au centroïde 0.
+Il y a 39441.0 mots appartenant au centroïde 1.
+Il y a 12132.0 mots appartenant au centroïde 2.
+Il y a 66142.0 mots appartenant au centroïde 3.
+Il y a 450.0 mots appartenant au centroïde 4.
+Il y a 117119.0 mots appartenant au centroïde 5.
+Il y a 36131.0 mots appartenant au centroïde 6.
+Il y a 2115.0 mots appartenant au centroïde 7.
+Il y a 846.0 mots appartenant au centroïde 8.
+Il y a 11454.0 mots appartenant au centroïde 9.
+Il y a 1225.0 mots appartenant au centroïde 10.
+Il y a 5574.0 mots appartenant au centroïde 11.
+Il y a 12173.0 mots appartenant au centroïde 12.
+Il y a 119.0 mots appartenant au centroïde 13.
+Il y a 8119.0 mots appartenant au centroïde 14.
+Il y a 1790.0 mots appartenant au centroïde 15.
+Il y a 15798.0 mots appartenant au centroïde 16.
+Il y a 4802.0 mots appartenant au centroïde 17.
+Il y a 5309.0 mots appartenant au centroïde 18.
+Il y a 58104.0 mots appartenant au centroïde 19.
+Il y a 5740.0 mots appartenant au centroïde 20.
+Il y a 981.0 mots appartenant au centroïde 21.
+Il y a 4449.0 mots appartenant au centroïde 22.
+Il y a 1826.0 mots appartenant au centroïde 23.
+Il y a 818.0 mots appartenant au centroïde 24.
+Il y a 560.0 mots appartenant au centroïde 25.
+Il y a 1212.0 mots appartenant au centroïde 26.
+Il y a 7205.0 mots appartenant au centroïde 27.
+Il y a 2560.0 mots appartenant au centroïde 28.
+Il y a 1125.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.183582399971783 secondes. (2756 changements)
+
+**********************************
+
+Itération 4
+
+Il y a 28247.0 mots appartenant au centroïde 0.
+Il y a 38256.0 mots appartenant au centroïde 1.
+Il y a 11471.0 mots appartenant au centroïde 2.
+Il y a 57275.0 mots appartenant au centroïde 3.
+Il y a 319.0 mots appartenant au centroïde 4.
+Il y a 85790.0 mots appartenant au centroïde 5.
+Il y a 76635.0 mots appartenant au centroïde 6.
+Il y a 1724.0 mots appartenant au centroïde 7.
+Il y a 600.0 mots appartenant au centroïde 8.
+Il y a 11573.0 mots appartenant au centroïde 9.
+Il y a 1080.0 mots appartenant au centroïde 10.
+Il y a 4636.0 mots appartenant au centroïde 11.
+Il y a 10103.0 mots appartenant au centroïde 12.
+Il y a 102.0 mots appartenant au centroïde 13.
+Il y a 7883.0 mots appartenant au centroïde 14.
+Il y a 1699.0 mots appartenant au centroïde 15.
+Il y a 15039.0 mots appartenant au centroïde 16.
+Il y a 3449.0 mots appartenant au centroïde 17.
+Il y a 4733.0 mots appartenant au centroïde 18.
+Il y a 69373.0 mots appartenant au centroïde 19.
+Il y a 5934.0 mots appartenant au centroïde 20.
+Il y a 666.0 mots appartenant au centroïde 21.
+Il y a 3916.0 mots appartenant au centroïde 22.
+Il y a 1758.0 mots appartenant au centroïde 23.
+Il y a 792.0 mots appartenant au centroïde 24.
+Il y a 430.0 mots appartenant au centroïde 25.
+Il y a 1212.0 mots appartenant au centroïde 26.
+Il y a 7300.0 mots appartenant au centroïde 27.
+Il y a 1645.0 mots appartenant au centroïde 28.
+Il y a 1130.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.970606999937445 secondes. (2398 changements)
+
+**********************************
+
+Itération 5
+
+Il y a 27768.0 mots appartenant au centroïde 0.
+Il y a 37024.0 mots appartenant au centroïde 1.
+Il y a 10936.0 mots appartenant au centroïde 2.
+Il y a 54111.0 mots appartenant au centroïde 3.
+Il y a 234.0 mots appartenant au centroïde 4.
+Il y a 55307.0 mots appartenant au centroïde 5.
+Il y a 114242.0 mots appartenant au centroïde 6.
+Il y a 1731.0 mots appartenant au centroïde 7.
+Il y a 408.0 mots appartenant au centroïde 8.
+Il y a 10822.0 mots appartenant au centroïde 9.
+Il y a 977.0 mots appartenant au centroïde 10.
+Il y a 3633.0 mots appartenant au centroïde 11.
+Il y a 8244.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 8038.0 mots appartenant au centroïde 14.
+Il y a 1632.0 mots appartenant au centroïde 15.
+Il y a 15024.0 mots appartenant au centroïde 16.
+Il y a 1576.0 mots appartenant au centroïde 17.
+Il y a 4446.0 mots appartenant au centroïde 18.
+Il y a 75606.0 mots appartenant au centroïde 19.
+Il y a 5610.0 mots appartenant au centroïde 20.
+Il y a 468.0 mots appartenant au centroïde 21.
+Il y a 3583.0 mots appartenant au centroïde 22.
+Il y a 1631.0 mots appartenant au centroïde 23.
+Il y a 718.0 mots appartenant au centroïde 24.
+Il y a 355.0 mots appartenant au centroïde 25.
+Il y a 1224.0 mots appartenant au centroïde 26.
+Il y a 7492.0 mots appartenant au centroïde 27.
+Il y a 709.0 mots appartenant au centroïde 28.
+Il y a 1153.0 mots appartenant au centroïde 29.
+
+Effectuée en 24.019130200031213 secondes. (2078 changements)
+
+**********************************
+
+Itération 6
+
+Il y a 27401.0 mots appartenant au centroïde 0.
+Il y a 35978.0 mots appartenant au centroïde 1.
+Il y a 9967.0 mots appartenant au centroïde 2.
+Il y a 51205.0 mots appartenant au centroïde 3.
+Il y a 234.0 mots appartenant au centroïde 4.
+Il y a 50539.0 mots appartenant au centroïde 5.
+Il y a 125523.0 mots appartenant au centroïde 6.
+Il y a 1708.0 mots appartenant au centroïde 7.
+Il y a 252.0 mots appartenant au centroïde 8.
+Il y a 10268.0 mots appartenant au centroïde 9.
+Il y a 693.0 mots appartenant au centroïde 10.
+Il y a 2813.0 mots appartenant au centroïde 11.
+Il y a 6819.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 7746.0 mots appartenant au centroïde 14.
+Il y a 1563.0 mots appartenant au centroïde 15.
+Il y a 14720.0 mots appartenant au centroïde 16.
+Il y a 926.0 mots appartenant au centroïde 17.
+Il y a 3939.0 mots appartenant au centroïde 18.
+Il y a 80725.0 mots appartenant au centroïde 19.
+Il y a 5198.0 mots appartenant au centroïde 20.
+Il y a 342.0 mots appartenant au centroïde 21.
+Il y a 3162.0 mots appartenant au centroïde 22.
+Il y a 1513.0 mots appartenant au centroïde 23.
+Il y a 678.0 mots appartenant au centroïde 24.
+Il y a 305.0 mots appartenant au centroïde 25.
+Il y a 1152.0 mots appartenant au centroïde 26.
+Il y a 7556.0 mots appartenant au centroïde 27.
+Il y a 606.0 mots appartenant au centroïde 28.
+Il y a 1171.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.312105100019835 secondes. (1514 changements)
+
+**********************************
+
+Itération 7
+
+Il y a 26698.0 mots appartenant au centroïde 0.
+Il y a 35424.0 mots appartenant au centroïde 1.
+Il y a 8500.0 mots appartenant au centroïde 2.
+Il y a 48228.0 mots appartenant au centroïde 3.
+Il y a 234.0 mots appartenant au centroïde 4.
+Il y a 49579.0 mots appartenant au centroïde 5.
+Il y a 132651.0 mots appartenant au centroïde 6.
+Il y a 1496.0 mots appartenant au centroïde 7.
+Il y a 146.0 mots appartenant au centroïde 8.
+Il y a 8931.0 mots appartenant au centroïde 9.
+Il y a 551.0 mots appartenant au centroïde 10.
+Il y a 2284.0 mots appartenant au centroïde 11.
+Il y a 6392.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 7516.0 mots appartenant au centroïde 14.
+Il y a 1486.0 mots appartenant au centroïde 15.
+Il y a 14270.0 mots appartenant au centroïde 16.
+Il y a 661.0 mots appartenant au centroïde 17.
+Il y a 3184.0 mots appartenant au centroïde 18.
+Il y a 85434.0 mots appartenant au centroïde 19.
+Il y a 5099.0 mots appartenant au centroïde 20.
+Il y a 252.0 mots appartenant au centroïde 21.
+Il y a 2900.0 mots appartenant au centroïde 22.
+Il y a 1497.0 mots appartenant au centroïde 23.
+Il y a 640.0 mots appartenant au centroïde 24.
+Il y a 295.0 mots appartenant au centroïde 25.
+Il y a 1116.0 mots appartenant au centroïde 26.
+Il y a 7594.0 mots appartenant au centroïde 27.
+Il y a 460.0 mots appartenant au centroïde 28.
+Il y a 1184.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.447619799990207 secondes. (1358 changements)
+
+**********************************
+
+Itération 8
+
+Il y a 25395.0 mots appartenant au centroïde 0.
+Il y a 34743.0 mots appartenant au centroïde 1.
+Il y a 7494.0 mots appartenant au centroïde 2.
+Il y a 46467.0 mots appartenant au centroïde 3.
+Il y a 234.0 mots appartenant au centroïde 4.
+Il y a 48091.0 mots appartenant au centroïde 5.
+Il y a 138441.0 mots appartenant au centroïde 6.
+Il y a 1137.0 mots appartenant au centroïde 7.
+Il y a 103.0 mots appartenant au centroïde 8.
+Il y a 8057.0 mots appartenant au centroïde 9.
+Il y a 444.0 mots appartenant au centroïde 10.
+Il y a 1852.0 mots appartenant au centroïde 11.
+Il y a 5731.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 7498.0 mots appartenant au centroïde 14.
+Il y a 1395.0 mots appartenant au centroïde 15.
+Il y a 14109.0 mots appartenant au centroïde 16.
+Il y a 494.0 mots appartenant au centroïde 17.
+Il y a 2531.0 mots appartenant au centroïde 18.
+Il y a 90116.0 mots appartenant au centroïde 19.
+Il y a 4932.0 mots appartenant au centroïde 20.
+Il y a 225.0 mots appartenant au centroïde 21.
+Il y a 2712.0 mots appartenant au centroïde 22.
+Il y a 1458.0 mots appartenant au centroïde 23.
+Il y a 558.0 mots appartenant au centroïde 24.
+Il y a 275.0 mots appartenant au centroïde 25.
+Il y a 1036.0 mots appartenant au centroïde 26.
+Il y a 7634.0 mots appartenant au centroïde 27.
+Il y a 336.0 mots appartenant au centroïde 28.
+Il y a 1204.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.613040899974294 secondes. (1319 changements)
+
+**********************************
+
+Itération 9
+
+Il y a 24500.0 mots appartenant au centroïde 0.
+Il y a 33755.0 mots appartenant au centroïde 1.
+Il y a 5948.0 mots appartenant au centroïde 2.
+Il y a 44974.0 mots appartenant au centroïde 3.
+Il y a 225.0 mots appartenant au centroïde 4.
+Il y a 52130.0 mots appartenant au centroïde 5.
+Il y a 138113.0 mots appartenant au centroïde 6.
+Il y a 961.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 7338.0 mots appartenant au centroïde 9.
+Il y a 307.0 mots appartenant au centroïde 10.
+Il y a 1609.0 mots appartenant au centroïde 11.
+Il y a 5565.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 7360.0 mots appartenant au centroïde 14.
+Il y a 1554.0 mots appartenant au centroïde 15.
+Il y a 13646.0 mots appartenant au centroïde 16.
+Il y a 368.0 mots appartenant au centroïde 17.
+Il y a 2122.0 mots appartenant au centroïde 18.
+Il y a 94244.0 mots appartenant au centroïde 19.
+Il y a 4946.0 mots appartenant au centroïde 20.
+Il y a 207.0 mots appartenant au centroïde 21.
+Il y a 2548.0 mots appartenant au centroïde 22.
+Il y a 1412.0 mots appartenant au centroïde 23.
+Il y a 496.0 mots appartenant au centroïde 24.
+Il y a 245.0 mots appartenant au centroïde 25.
+Il y a 916.0 mots appartenant au centroïde 26.
+Il y a 7702.0 mots appartenant au centroïde 27.
+Il y a 252.0 mots appartenant au centroïde 28.
+Il y a 1215.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.313774800044484 secondes. (1118 changements)
+
+**********************************
+
+Itération 10
+
+Il y a 23371.0 mots appartenant au centroïde 0.
+Il y a 33457.0 mots appartenant au centroïde 1.
+Il y a 5106.0 mots appartenant au centroïde 2.
+Il y a 44338.0 mots appartenant au centroïde 3.
+Il y a 216.0 mots appartenant au centroïde 4.
+Il y a 55680.0 mots appartenant au centroïde 5.
+Il y a 136750.0 mots appartenant au centroïde 6.
+Il y a 721.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 6273.0 mots appartenant au centroïde 9.
+Il y a 257.0 mots appartenant au centroïde 10.
+Il y a 1376.0 mots appartenant au centroïde 11.
+Il y a 5708.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 7228.0 mots appartenant au centroïde 14.
+Il y a 1469.0 mots appartenant au centroïde 15.
+Il y a 13567.0 mots appartenant au centroïde 16.
+Il y a 190.0 mots appartenant au centroïde 17.
+Il y a 1740.0 mots appartenant au centroïde 18.
+Il y a 97680.0 mots appartenant au centroïde 19.
+Il y a 4860.0 mots appartenant au centroïde 20.
+Il y a 207.0 mots appartenant au centroïde 21.
+Il y a 2480.0 mots appartenant au centroïde 22.
+Il y a 1352.0 mots appartenant au centroïde 23.
+Il y a 452.0 mots appartenant au centroïde 24.
+Il y a 240.0 mots appartenant au centroïde 25.
+Il y a 804.0 mots appartenant au centroïde 26.
+Il y a 7782.0 mots appartenant au centroïde 27.
+Il y a 138.0 mots appartenant au centroïde 28.
+Il y a 1216.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.26397219998762 secondes. (988 changements)
+
+**********************************
+
+Itération 11
+
+Il y a 22028.0 mots appartenant au centroïde 0.
+Il y a 33420.0 mots appartenant au centroïde 1.
+Il y a 4298.0 mots appartenant au centroïde 2.
+Il y a 44438.0 mots appartenant au centroïde 3.
+Il y a 190.0 mots appartenant au centroïde 4.
+Il y a 61432.0 mots appartenant au centroïde 5.
+Il y a 130979.0 mots appartenant au centroïde 6.
+Il y a 574.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 5528.0 mots appartenant au centroïde 9.
+Il y a 217.0 mots appartenant au centroïde 10.
+Il y a 1241.0 mots appartenant au centroïde 11.
+Il y a 5707.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 6889.0 mots appartenant au centroïde 14.
+Il y a 1626.0 mots appartenant au centroïde 15.
+Il y a 14441.0 mots appartenant au centroïde 16.
+Il y a 176.0 mots appartenant au centroïde 17.
+Il y a 1466.0 mots appartenant au centroïde 18.
+Il y a 100798.0 mots appartenant au centroïde 19.
+Il y a 4958.0 mots appartenant au centroïde 20.
+Il y a 189.0 mots appartenant au centroïde 21.
+Il y a 2372.0 mots appartenant au centroïde 22.
+Il y a 1260.0 mots appartenant au centroïde 23.
+Il y a 370.0 mots appartenant au centroïde 24.
+Il y a 235.0 mots appartenant au centroïde 25.
+Il y a 668.0 mots appartenant au centroïde 26.
+Il y a 7863.0 mots appartenant au centroïde 27.
+Il y a 98.0 mots appartenant au centroïde 28.
+Il y a 1197.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.13761119998526 secondes. (867 changements)
+
+**********************************
+
+Itération 12
+
+Il y a 21097.0 mots appartenant au centroïde 0.
+Il y a 33354.0 mots appartenant au centroïde 1.
+Il y a 3737.0 mots appartenant au centroïde 2.
+Il y a 43929.0 mots appartenant au centroïde 3.
+Il y a 173.0 mots appartenant au centroïde 4.
+Il y a 57448.0 mots appartenant au centroïde 5.
+Il y a 134927.0 mots appartenant au centroïde 6.
+Il y a 521.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 4948.0 mots appartenant au centroïde 9.
+Il y a 223.0 mots appartenant au centroïde 10.
+Il y a 1073.0 mots appartenant au centroïde 11.
+Il y a 5227.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 6747.0 mots appartenant au centroïde 14.
+Il y a 1518.0 mots appartenant au centroïde 15.
+Il y a 15850.0 mots appartenant au centroïde 16.
+Il y a 139.0 mots appartenant au centroïde 17.
+Il y a 1400.0 mots appartenant au centroïde 18.
+Il y a 103793.0 mots appartenant au centroïde 19.
+Il y a 4932.0 mots appartenant au centroïde 20.
+Il y a 135.0 mots appartenant au centroïde 21.
+Il y a 2236.0 mots appartenant au centroïde 22.
+Il y a 1102.0 mots appartenant au centroïde 23.
+Il y a 328.0 mots appartenant au centroïde 24.
+Il y a 240.0 mots appartenant au centroïde 25.
+Il y a 544.0 mots appartenant au centroïde 26.
+Il y a 7759.0 mots appartenant au centroïde 27.
+Il y a 86.0 mots appartenant au centroïde 28.
+Il y a 1192.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.54288770002313 secondes. (870 changements)
+
+**********************************
+
+Itération 13
+
+Il y a 19821.0 mots appartenant au centroïde 0.
+Il y a 33795.0 mots appartenant au centroïde 1.
+Il y a 3420.0 mots appartenant au centroïde 2.
+Il y a 44151.0 mots appartenant au centroïde 3.
+Il y a 173.0 mots appartenant au centroïde 4.
+Il y a 51342.0 mots appartenant au centroïde 5.
+Il y a 124366.0 mots appartenant au centroïde 6.
+Il y a 496.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 4976.0 mots appartenant au centroïde 9.
+Il y a 191.0 mots appartenant au centroïde 10.
+Il y a 894.0 mots appartenant au centroïde 11.
+Il y a 4598.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 6462.0 mots appartenant au centroïde 14.
+Il y a 1474.0 mots appartenant au centroïde 15.
+Il y a 32704.0 mots appartenant au centroïde 16.
+Il y a 126.0 mots appartenant au centroïde 17.
+Il y a 1306.0 mots appartenant au centroïde 18.
+Il y a 106288.0 mots appartenant au centroïde 19.
+Il y a 4898.0 mots appartenant au centroïde 20.
+Il y a 108.0 mots appartenant au centroïde 21.
+Il y a 2060.0 mots appartenant au centroïde 22.
+Il y a 935.0 mots appartenant au centroïde 23.
+Il y a 298.0 mots appartenant au centroïde 24.
+Il y a 248.0 mots appartenant au centroïde 25.
+Il y a 492.0 mots appartenant au centroïde 26.
+Il y a 7764.0 mots appartenant au centroïde 27.
+Il y a 72.0 mots appartenant au centroïde 28.
+Il y a 1200.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.172946699894965 secondes. (735 changements)
+
+**********************************
+
+Itération 14
+
+Il y a 19456.0 mots appartenant au centroïde 0.
+Il y a 33827.0 mots appartenant au centroïde 1.
+Il y a 2875.0 mots appartenant au centroïde 2.
+Il y a 43755.0 mots appartenant au centroïde 3.
+Il y a 173.0 mots appartenant au centroïde 4.
+Il y a 42728.0 mots appartenant au centroïde 5.
+Il y a 123399.0 mots appartenant au centroïde 6.
+Il y a 472.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 5115.0 mots appartenant au centroïde 9.
+Il y a 168.0 mots appartenant au centroïde 10.
+Il y a 723.0 mots appartenant au centroïde 11.
+Il y a 3979.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 5936.0 mots appartenant au centroïde 14.
+Il y a 1443.0 mots appartenant au centroïde 15.
+Il y a 43539.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 1127.0 mots appartenant au centroïde 18.
+Il y a 107925.0 mots appartenant au centroïde 19.
+Il y a 4716.0 mots appartenant au centroïde 20.
+Il y a 99.0 mots appartenant au centroïde 21.
+Il y a 2068.0 mots appartenant au centroïde 22.
+Il y a 837.0 mots appartenant au centroïde 23.
+Il y a 268.0 mots appartenant au centroïde 24.
+Il y a 240.0 mots appartenant au centroïde 25.
+Il y a 464.0 mots appartenant au centroïde 26.
+Il y a 7948.0 mots appartenant au centroïde 27.
+Il y a 58.0 mots appartenant au centroïde 28.
+Il y a 1216.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.579750300035812 secondes. (643 changements)
+
+**********************************
+
+Itération 15
+
+Il y a 18841.0 mots appartenant au centroïde 0.
+Il y a 33507.0 mots appartenant au centroïde 1.
+Il y a 2494.0 mots appartenant au centroïde 2.
+Il y a 42958.0 mots appartenant au centroïde 3.
+Il y a 173.0 mots appartenant au centroïde 4.
+Il y a 35160.0 mots appartenant au centroïde 5.
+Il y a 130228.0 mots appartenant au centroïde 6.
+Il y a 475.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 4992.0 mots appartenant au centroïde 9.
+Il y a 170.0 mots appartenant au centroïde 10.
+Il y a 693.0 mots appartenant au centroïde 11.
+Il y a 3798.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 5520.0 mots appartenant au centroïde 14.
+Il y a 1259.0 mots appartenant au centroïde 15.
+Il y a 46164.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 872.0 mots appartenant au centroïde 18.
+Il y a 109490.0 mots appartenant au centroïde 19.
+Il y a 4636.0 mots appartenant au centroïde 20.
+Il y a 81.0 mots appartenant au centroïde 21.
+Il y a 2140.0 mots appartenant au centroïde 22.
+Il y a 706.0 mots appartenant au centroïde 23.
+Il y a 268.0 mots appartenant au centroïde 24.
+Il y a 215.0 mots appartenant au centroïde 25.
+Il y a 420.0 mots appartenant au centroïde 26.
+Il y a 8008.0 mots appartenant au centroïde 27.
+Il y a 56.0 mots appartenant au centroïde 28.
+Il y a 1230.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.321471200091764 secondes. (626 changements)
+
+**********************************
+
+Itération 16
+
+Il y a 18569.0 mots appartenant au centroïde 0.
+Il y a 32815.0 mots appartenant au centroïde 1.
+Il y a 2094.0 mots appartenant au centroïde 2.
+Il y a 41936.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 31260.0 mots appartenant au centroïde 5.
+Il y a 134899.0 mots appartenant au centroïde 6.
+Il y a 486.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 4876.0 mots appartenant au centroïde 9.
+Il y a 171.0 mots appartenant au centroïde 10.
+Il y a 626.0 mots appartenant au centroïde 11.
+Il y a 3122.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 5126.0 mots appartenant au centroïde 14.
+Il y a 1056.0 mots appartenant au centroïde 15.
+Il y a 48485.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 753.0 mots appartenant au centroïde 18.
+Il y a 110261.0 mots appartenant au centroïde 19.
+Il y a 4626.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2292.0 mots appartenant au centroïde 22.
+Il y a 632.0 mots appartenant au centroïde 23.
+Il y a 268.0 mots appartenant au centroïde 24.
+Il y a 210.0 mots appartenant au centroïde 25.
+Il y a 392.0 mots appartenant au centroïde 26.
+Il y a 8069.0 mots appartenant au centroïde 27.
+Il y a 52.0 mots appartenant au centroïde 28.
+Il y a 1243.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.290800599963404 secondes. (547 changements)
+
+**********************************
+
+Itération 17
+
+Il y a 18056.0 mots appartenant au centroïde 0.
+Il y a 32916.0 mots appartenant au centroïde 1.
+Il y a 2001.0 mots appartenant au centroïde 2.
+Il y a 40411.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 30306.0 mots appartenant au centroïde 5.
+Il y a 137397.0 mots appartenant au centroïde 6.
+Il y a 477.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 4436.0 mots appartenant au centroïde 9.
+Il y a 171.0 mots appartenant au centroïde 10.
+Il y a 518.0 mots appartenant au centroïde 11.
+Il y a 2682.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 4808.0 mots appartenant au centroïde 14.
+Il y a 811.0 mots appartenant au centroïde 15.
+Il y a 50068.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 693.0 mots appartenant au centroïde 18.
+Il y a 111020.0 mots appartenant au centroïde 19.
+Il y a 4422.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2392.0 mots appartenant au centroïde 22.
+Il y a 584.0 mots appartenant au centroïde 23.
+Il y a 268.0 mots appartenant au centroïde 24.
+Il y a 165.0 mots appartenant au centroïde 25.
+Il y a 336.0 mots appartenant au centroïde 26.
+Il y a 8073.0 mots appartenant au centroïde 27.
+Il y a 46.0 mots appartenant au centroïde 28.
+Il y a 1262.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.388624800019898 secondes. (513 changements)
+
+**********************************
+
+Itération 18
+
+Il y a 17383.0 mots appartenant au centroïde 0.
+Il y a 32975.0 mots appartenant au centroïde 1.
+Il y a 1939.0 mots appartenant au centroïde 2.
+Il y a 38817.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 28515.0 mots appartenant au centroïde 5.
+Il y a 140664.0 mots appartenant au centroïde 6.
+Il y a 469.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 3761.0 mots appartenant au centroïde 9.
+Il y a 175.0 mots appartenant au centroïde 10.
+Il y a 504.0 mots appartenant au centroïde 11.
+Il y a 2354.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 4549.0 mots appartenant au centroïde 14.
+Il y a 708.0 mots appartenant au centroïde 15.
+Il y a 51702.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 684.0 mots appartenant au centroïde 18.
+Il y a 111754.0 mots appartenant au centroïde 19.
+Il y a 4160.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2512.0 mots appartenant au centroïde 22.
+Il y a 505.0 mots appartenant au centroïde 23.
+Il y a 278.0 mots appartenant au centroïde 24.
+Il y a 145.0 mots appartenant au centroïde 25.
+Il y a 356.0 mots appartenant au centroïde 26.
+Il y a 8088.0 mots appartenant au centroïde 27.
+Il y a 38.0 mots appartenant au centroïde 28.
+Il y a 1284.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.379602700006217 secondes. (513 changements)
+
+**********************************
+
+Itération 19
+
+Il y a 16943.0 mots appartenant au centroïde 0.
+Il y a 32782.0 mots appartenant au centroïde 1.
+Il y a 1834.0 mots appartenant au centroïde 2.
+Il y a 37344.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 28436.0 mots appartenant au centroïde 5.
+Il y a 142181.0 mots appartenant au centroïde 6.
+Il y a 469.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 3267.0 mots appartenant au centroïde 9.
+Il y a 175.0 mots appartenant au centroïde 10.
+Il y a 499.0 mots appartenant au centroïde 11.
+Il y a 2184.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 4241.0 mots appartenant au centroïde 14.
+Il y a 665.0 mots appartenant au centroïde 15.
+Il y a 52979.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 654.0 mots appartenant au centroïde 18.
+Il y a 112613.0 mots appartenant au centroïde 19.
+Il y a 3854.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2660.0 mots appartenant au centroïde 22.
+Il y a 457.0 mots appartenant au centroïde 23.
+Il y a 282.0 mots appartenant au centroïde 24.
+Il y a 130.0 mots appartenant au centroïde 25.
+Il y a 348.0 mots appartenant au centroïde 26.
+Il y a 7985.0 mots appartenant au centroïde 27.
+Il y a 32.0 mots appartenant au centroïde 28.
+Il y a 1305.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.28808420000132 secondes. (487 changements)
+
+**********************************
+
+Itération 20
+
+Il y a 16757.0 mots appartenant au centroïde 0.
+Il y a 32548.0 mots appartenant au centroïde 1.
+Il y a 1696.0 mots appartenant au centroïde 2.
+Il y a 35631.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 27435.0 mots appartenant au centroïde 5.
+Il y a 145253.0 mots appartenant au centroïde 6.
+Il y a 438.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2951.0 mots appartenant au centroïde 9.
+Il y a 168.0 mots appartenant au centroïde 10.
+Il y a 489.0 mots appartenant au centroïde 11.
+Il y a 1857.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3930.0 mots appartenant au centroïde 14.
+Il y a 580.0 mots appartenant au centroïde 15.
+Il y a 53843.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 644.0 mots appartenant au centroïde 18.
+Il y a 113319.0 mots appartenant au centroïde 19.
+Il y a 3552.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2712.0 mots appartenant au centroïde 22.
+Il y a 409.0 mots appartenant au centroïde 23.
+Il y a 286.0 mots appartenant au centroïde 24.
+Il y a 125.0 mots appartenant au centroïde 25.
+Il y a 356.0 mots appartenant au centroïde 26.
+Il y a 7987.0 mots appartenant au centroïde 27.
+Il y a 30.0 mots appartenant au centroïde 28.
+Il y a 1323.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.299361299956217 secondes. (454 changements)
+
+**********************************
+
+Itération 21
+
+Il y a 16851.0 mots appartenant au centroïde 0.
+Il y a 32249.0 mots appartenant au centroïde 1.
+Il y a 1525.0 mots appartenant au centroïde 2.
+Il y a 34041.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 28077.0 mots appartenant au centroïde 5.
+Il y a 146654.0 mots appartenant au centroïde 6.
+Il y a 437.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2740.0 mots appartenant au centroïde 9.
+Il y a 148.0 mots appartenant au centroïde 10.
+Il y a 482.0 mots appartenant au centroïde 11.
+Il y a 1586.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3671.0 mots appartenant au centroïde 14.
+Il y a 480.0 mots appartenant au centroïde 15.
+Il y a 54599.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 608.0 mots appartenant au centroïde 18.
+Il y a 113695.0 mots appartenant au centroïde 19.
+Il y a 3346.0 mots appartenant au centroïde 20.
+Il y a 72.0 mots appartenant au centroïde 21.
+Il y a 2608.0 mots appartenant au centroïde 22.
+Il y a 393.0 mots appartenant au centroïde 23.
+Il y a 274.0 mots appartenant au centroïde 24.
+Il y a 110.0 mots appartenant au centroïde 25.
+Il y a 344.0 mots appartenant au centroïde 26.
+Il y a 8021.0 mots appartenant au centroïde 27.
+Il y a 30.0 mots appartenant au centroïde 28.
+Il y a 1350.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.16859460005071 secondes. (438 changements)
+
+**********************************
+
+Itération 22
+
+Il y a 16840.0 mots appartenant au centroïde 0.
+Il y a 32204.0 mots appartenant au centroïde 1.
+Il y a 1439.0 mots appartenant au centroïde 2.
+Il y a 33124.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 29726.0 mots appartenant au centroïde 5.
+Il y a 145980.0 mots appartenant au centroïde 6.
+Il y a 427.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2566.0 mots appartenant au centroïde 9.
+Il y a 109.0 mots appartenant au centroïde 10.
+Il y a 463.0 mots appartenant au centroïde 11.
+Il y a 1447.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3510.0 mots appartenant au centroïde 14.
+Il y a 353.0 mots appartenant au centroïde 15.
+Il y a 56323.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 560.0 mots appartenant au centroïde 18.
+Il y a 113203.0 mots appartenant au centroïde 19.
+Il y a 3158.0 mots appartenant au centroïde 20.
+Il y a 63.0 mots appartenant au centroïde 21.
+Il y a 2406.0 mots appartenant au centroïde 22.
+Il y a 399.0 mots appartenant au centroïde 23.
+Il y a 250.0 mots appartenant au centroïde 24.
+Il y a 100.0 mots appartenant au centroïde 25.
+Il y a 324.0 mots appartenant au centroïde 26.
+Il y a 8091.0 mots appartenant au centroïde 27.
+Il y a 30.0 mots appartenant au centroïde 28.
+Il y a 1296.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.256647699978203 secondes. (473 changements)
+
+**********************************
+
+Itération 23
+
+Il y a 16727.0 mots appartenant au centroïde 0.
+Il y a 32121.0 mots appartenant au centroïde 1.
+Il y a 1391.0 mots appartenant au centroïde 2.
+Il y a 32666.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 28981.0 mots appartenant au centroïde 5.
+Il y a 147035.0 mots appartenant au centroïde 6.
+Il y a 427.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2270.0 mots appartenant au centroïde 9.
+Il y a 104.0 mots appartenant au centroïde 10.
+Il y a 458.0 mots appartenant au centroïde 11.
+Il y a 1333.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3351.0 mots appartenant au centroïde 14.
+Il y a 299.0 mots appartenant au centroïde 15.
+Il y a 58521.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 112321.0 mots appartenant au centroïde 19.
+Il y a 3078.0 mots appartenant au centroïde 20.
+Il y a 63.0 mots appartenant au centroïde 21.
+Il y a 2212.0 mots appartenant au centroïde 22.
+Il y a 420.0 mots appartenant au centroïde 23.
+Il y a 240.0 mots appartenant au centroïde 24.
+Il y a 85.0 mots appartenant au centroïde 25.
+Il y a 308.0 mots appartenant au centroïde 26.
+Il y a 8257.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1169.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.276772500015795 secondes. (535 changements)
+
+**********************************
+
+Itération 24
+
+Il y a 16649.0 mots appartenant au centroïde 0.
+Il y a 31988.0 mots appartenant au centroïde 1.
+Il y a 1333.0 mots appartenant au centroïde 2.
+Il y a 32276.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 27483.0 mots appartenant au centroïde 5.
+Il y a 148930.0 mots appartenant au centroïde 6.
+Il y a 434.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2148.0 mots appartenant au centroïde 9.
+Il y a 98.0 mots appartenant au centroïde 10.
+Il y a 425.0 mots appartenant au centroïde 11.
+Il y a 1285.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3237.0 mots appartenant au centroïde 14.
+Il y a 237.0 mots appartenant au centroïde 15.
+Il y a 59846.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 111887.0 mots appartenant au centroïde 19.
+Il y a 2914.0 mots appartenant au centroïde 20.
+Il y a 63.0 mots appartenant au centroïde 21.
+Il y a 2062.0 mots appartenant au centroïde 22.
+Il y a 434.0 mots appartenant au centroïde 23.
+Il y a 220.0 mots appartenant au centroïde 24.
+Il y a 85.0 mots appartenant au centroïde 25.
+Il y a 292.0 mots appartenant au centroïde 26.
+Il y a 8595.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 916.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.239300400018692 secondes. (657 changements)
+
+**********************************
+
+Itération 25
+
+Il y a 16676.0 mots appartenant au centroïde 0.
+Il y a 31446.0 mots appartenant au centroïde 1.
+Il y a 1199.0 mots appartenant au centroïde 2.
+Il y a 32323.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 27451.0 mots appartenant au centroïde 5.
+Il y a 149066.0 mots appartenant au centroïde 6.
+Il y a 446.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2236.0 mots appartenant au centroïde 9.
+Il y a 92.0 mots appartenant au centroïde 10.
+Il y a 420.0 mots appartenant au centroïde 11.
+Il y a 1135.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3080.0 mots appartenant au centroïde 14.
+Il y a 175.0 mots appartenant au centroïde 15.
+Il y a 60755.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 111759.0 mots appartenant au centroïde 19.
+Il y a 2744.0 mots appartenant au centroïde 20.
+Il y a 54.0 mots appartenant au centroïde 21.
+Il y a 2014.0 mots appartenant au centroïde 22.
+Il y a 441.0 mots appartenant au centroïde 23.
+Il y a 218.0 mots appartenant au centroïde 24.
+Il y a 85.0 mots appartenant au centroïde 25.
+Il y a 284.0 mots appartenant au centroïde 26.
+Il y a 8814.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 924.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.388147999998182 secondes. (618 changements)
+
+**********************************
+
+Itération 26
+
+Il y a 16774.0 mots appartenant au centroïde 0.
+Il y a 30798.0 mots appartenant au centroïde 1.
+Il y a 1088.0 mots appartenant au centroïde 2.
+Il y a 32423.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 30766.0 mots appartenant au centroïde 5.
+Il y a 145669.0 mots appartenant au centroïde 6.
+Il y a 464.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2160.0 mots appartenant au centroïde 9.
+Il y a 77.0 mots appartenant au centroïde 10.
+Il y a 429.0 mots appartenant au centroïde 11.
+Il y a 1120.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 3018.0 mots appartenant au centroïde 14.
+Il y a 145.0 mots appartenant au centroïde 15.
+Il y a 61037.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 112284.0 mots appartenant au centroïde 19.
+Il y a 2680.0 mots appartenant au centroïde 20.
+Il y a 45.0 mots appartenant au centroïde 21.
+Il y a 1868.0 mots appartenant au centroïde 22.
+Il y a 399.0 mots appartenant au centroïde 23.
+Il y a 230.0 mots appartenant au centroïde 24.
+Il y a 85.0 mots appartenant au centroïde 25.
+Il y a 280.0 mots appartenant au centroïde 26.
+Il y a 9062.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 936.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.222070900024846 secondes. (684 changements)
+
+**********************************
+
+Itération 27
+
+Il y a 16859.0 mots appartenant au centroïde 0.
+Il y a 30315.0 mots appartenant au centroïde 1.
+Il y a 1062.0 mots appartenant au centroïde 2.
+Il y a 32452.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 31967.0 mots appartenant au centroïde 5.
+Il y a 144280.0 mots appartenant au centroïde 6.
+Il y a 458.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2141.0 mots appartenant au centroïde 9.
+Il y a 77.0 mots appartenant au centroïde 10.
+Il y a 433.0 mots appartenant au centroïde 11.
+Il y a 1101.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2773.0 mots appartenant au centroïde 14.
+Il y a 130.0 mots appartenant au centroïde 15.
+Il y a 60997.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 113018.0 mots appartenant au centroïde 19.
+Il y a 2630.0 mots appartenant au centroïde 20.
+Il y a 36.0 mots appartenant au centroïde 21.
+Il y a 1796.0 mots appartenant au centroïde 22.
+Il y a 337.0 mots appartenant au centroïde 23.
+Il y a 236.0 mots appartenant au centroïde 24.
+Il y a 90.0 mots appartenant au centroïde 25.
+Il y a 280.0 mots appartenant au centroïde 26.
+Il y a 9176.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1193.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.285091599915177 secondes. (726 changements)
+
+**********************************
+
+Itération 28
+
+Il y a 16930.0 mots appartenant au centroïde 0.
+Il y a 30182.0 mots appartenant au centroïde 1.
+Il y a 1051.0 mots appartenant au centroïde 2.
+Il y a 32367.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 49417.0 mots appartenant au centroïde 5.
+Il y a 126284.0 mots appartenant au centroïde 6.
+Il y a 468.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 2006.0 mots appartenant au centroïde 9.
+Il y a 77.0 mots appartenant au centroïde 10.
+Il y a 411.0 mots appartenant au centroïde 11.
+Il y a 1039.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2598.0 mots appartenant au centroïde 14.
+Il y a 125.0 mots appartenant au centroïde 15.
+Il y a 60648.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 114080.0 mots appartenant au centroïde 19.
+Il y a 2576.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1774.0 mots appartenant au centroïde 22.
+Il y a 306.0 mots appartenant au centroïde 23.
+Il y a 232.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 272.0 mots appartenant au centroïde 26.
+Il y a 9226.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1646.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.493217800045386 secondes. (786 changements)
+
+**********************************
+
+Itération 29
+
+Il y a 17351.0 mots appartenant au centroïde 0.
+Il y a 29745.0 mots appartenant au centroïde 1.
+Il y a 1026.0 mots appartenant au centroïde 2.
+Il y a 32360.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 89570.0 mots appartenant au centroïde 5.
+Il y a 85490.0 mots appartenant au centroïde 6.
+Il y a 474.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1829.0 mots appartenant au centroïde 9.
+Il y a 91.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 987.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2422.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 59993.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 531.0 mots appartenant au centroïde 18.
+Il y a 115560.0 mots appartenant au centroïde 19.
+Il y a 2500.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1702.0 mots appartenant au centroïde 22.
+Il y a 306.0 mots appartenant au centroïde 23.
+Il y a 230.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 260.0 mots appartenant au centroïde 26.
+Il y a 9332.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1989.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.219542999984697 secondes. (649 changements)
+
+**********************************
+
+Itération 30
+
+Il y a 17343.0 mots appartenant au centroïde 0.
+Il y a 29745.0 mots appartenant au centroïde 1.
+Il y a 1007.0 mots appartenant au centroïde 2.
+Il y a 32311.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 127160.0 mots appartenant au centroïde 5.
+Il y a 47505.0 mots appartenant au centroïde 6.
+Il y a 474.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1586.0 mots appartenant au centroïde 9.
+Il y a 91.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 978.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2213.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 58960.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 531.0 mots appartenant au centroïde 18.
+Il y a 117509.0 mots appartenant au centroïde 19.
+Il y a 2382.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1580.0 mots appartenant au centroïde 22.
+Il y a 306.0 mots appartenant au centroïde 23.
+Il y a 226.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 248.0 mots appartenant au centroïde 26.
+Il y a 9419.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2174.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.152258999994956 secondes. (428 changements)
+
+**********************************
+
+Itération 31
+
+Il y a 17293.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 987.0 mots appartenant au centroïde 2.
+Il y a 32311.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 137990.0 mots appartenant au centroïde 5.
+Il y a 36033.0 mots appartenant au centroïde 6.
+Il y a 465.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1501.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 890.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2123.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 58187.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 531.0 mots appartenant au centroïde 18.
+Il y a 119276.0 mots appartenant au centroïde 19.
+Il y a 2410.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1398.0 mots appartenant au centroïde 22.
+Il y a 271.0 mots appartenant au centroïde 23.
+Il y a 220.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 224.0 mots appartenant au centroïde 26.
+Il y a 9503.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2232.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.264010399929248 secondes. (351 changements)
+
+**********************************
+
+Itération 32
+
+Il y a 17293.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32289.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 141616.0 mots appartenant au centroïde 5.
+Il y a 31694.0 mots appartenant au centroïde 6.
+Il y a 463.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1419.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 817.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 2017.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 57743.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 531.0 mots appartenant au centroïde 18.
+Il y a 120834.0 mots appartenant au centroïde 19.
+Il y a 2318.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1324.0 mots appartenant au centroïde 22.
+Il y a 257.0 mots appartenant au centroïde 23.
+Il y a 220.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 208.0 mots appartenant au centroïde 26.
+Il y a 9580.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2244.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.14936400006991 secondes. (348 changements)
+
+**********************************
+
+Itération 33
+
+Il y a 17293.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32310.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 143473.0 mots appartenant au centroïde 5.
+Il y a 29242.0 mots appartenant au centroïde 6.
+Il y a 463.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1368.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 711.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1935.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 57303.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 122210.0 mots appartenant au centroïde 19.
+Il y a 2210.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1308.0 mots appartenant au centroïde 22.
+Il y a 236.0 mots appartenant au centroïde 23.
+Il y a 216.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 196.0 mots appartenant au centroïde 26.
+Il y a 9625.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2242.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.217585299978964 secondes. (357 changements)
+
+**********************************
+
+Itération 34
+
+Il y a 17289.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32336.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 143190.0 mots appartenant au centroïde 5.
+Il y a 29024.0 mots appartenant au centroïde 6.
+Il y a 461.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1322.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 632.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1851.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 56827.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 123525.0 mots appartenant au centroïde 19.
+Il y a 2142.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1226.0 mots appartenant au centroïde 22.
+Il y a 210.0 mots appartenant au centroïde 23.
+Il y a 212.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 184.0 mots appartenant au centroïde 26.
+Il y a 9685.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2225.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.16437130002305 secondes. (339 changements)
+
+**********************************
+
+Itération 35
+
+Il y a 17278.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32402.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 145729.0 mots appartenant au centroïde 5.
+Il y a 25943.0 mots appartenant au centroïde 6.
+Il y a 459.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1321.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 586.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1780.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 56132.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 124915.0 mots appartenant au centroïde 19.
+Il y a 2090.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1200.0 mots appartenant au centroïde 22.
+Il y a 196.0 mots appartenant au centroïde 23.
+Il y a 208.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 172.0 mots appartenant au centroïde 26.
+Il y a 9746.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2184.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.120852199965157 secondes. (315 changements)
+
+**********************************
+
+Itération 36
+
+Il y a 17274.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32514.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 146050.0 mots appartenant au centroïde 5.
+Il y a 25266.0 mots appartenant au centroïde 6.
+Il y a 457.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1267.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 570.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1657.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 55476.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 126105.0 mots appartenant au centroïde 19.
+Il y a 2086.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1158.0 mots appartenant au centroïde 22.
+Il y a 196.0 mots appartenant au centroïde 23.
+Il y a 200.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 152.0 mots appartenant au centroïde 26.
+Il y a 9759.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2154.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.12216999998782 secondes. (309 changements)
+
+**********************************
+
+Itération 37
+
+Il y a 17256.0 mots appartenant au centroïde 0.
+Il y a 29827.0 mots appartenant au centroïde 1.
+Il y a 978.0 mots appartenant au centroïde 2.
+Il y a 32703.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 145706.0 mots appartenant au centroïde 5.
+Il y a 25190.0 mots appartenant au centroïde 6.
+Il y a 455.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1275.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 588.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1559.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 54968.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 127116.0 mots appartenant au centroïde 19.
+Il y a 2006.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1104.0 mots appartenant au centroïde 22.
+Il y a 196.0 mots appartenant au centroïde 23.
+Il y a 202.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 144.0 mots appartenant au centroïde 26.
+Il y a 9763.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2110.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.232327799894847 secondes. (249 changements)
+
+**********************************
+
+Itération 38
+
+Il y a 17212.0 mots appartenant au centroïde 0.
+Il y a 29885.0 mots appartenant au centroïde 1.
+Il y a 937.0 mots appartenant au centroïde 2.
+Il y a 32797.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 146092.0 mots appartenant au centroïde 5.
+Il y a 24491.0 mots appartenant au centroïde 6.
+Il y a 455.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1250.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 562.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1532.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 54667.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 127948.0 mots appartenant au centroïde 19.
+Il y a 1880.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 1074.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 196.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 132.0 mots appartenant au centroïde 26.
+Il y a 9768.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2079.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.249373300001025 secondes. (234 changements)
+
+**********************************
+
+Itération 39
+
+Il y a 17202.0 mots appartenant au centroïde 0.
+Il y a 29885.0 mots appartenant au centroïde 1.
+Il y a 937.0 mots appartenant au centroïde 2.
+Il y a 33172.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 146624.0 mots appartenant au centroïde 5.
+Il y a 23190.0 mots appartenant au centroïde 6.
+Il y a 453.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1235.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 518.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1480.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 54565.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 128704.0 mots appartenant au centroïde 19.
+Il y a 1826.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 994.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 194.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 132.0 mots appartenant au centroïde 26.
+Il y a 9788.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2058.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.156565300072543 secondes. (204 changements)
+
+**********************************
+
+Itération 40
+
+Il y a 17202.0 mots appartenant au centroïde 0.
+Il y a 29885.0 mots appartenant au centroïde 1.
+Il y a 937.0 mots appartenant au centroïde 2.
+Il y a 33371.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 149751.0 mots appartenant au centroïde 5.
+Il y a 19475.0 mots appartenant au centroïde 6.
+Il y a 453.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1210.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 488.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1414.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 54392.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 129494.0 mots appartenant au centroïde 19.
+Il y a 1784.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 922.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 192.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9819.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2040.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.372210899950005 secondes. (204 changements)
+
+**********************************
+
+Itération 41
+
+Il y a 17181.0 mots appartenant au centroïde 0.
+Il y a 29885.0 mots appartenant au centroïde 1.
+Il y a 937.0 mots appartenant au centroïde 2.
+Il y a 33544.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 151782.0 mots appartenant au centroïde 5.
+Il y a 17025.0 mots appartenant au centroïde 6.
+Il y a 453.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1166.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1377.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 53995.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 130331.0 mots appartenant au centroïde 19.
+Il y a 1708.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 906.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 192.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9822.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 2021.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.377912100055255 secondes. (199 changements)
+
+**********************************
+
+Itération 42
+
+Il y a 17078.0 mots appartenant au centroïde 0.
+Il y a 29940.0 mots appartenant au centroïde 1.
+Il y a 947.0 mots appartenant au centroïde 2.
+Il y a 33582.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 153082.0 mots appartenant au centroïde 5.
+Il y a 15523.0 mots appartenant au centroïde 6.
+Il y a 457.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1124.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 526.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1338.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 53570.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 131120.0 mots appartenant au centroïde 19.
+Il y a 1648.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 848.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 192.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9865.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1989.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.422653099987656 secondes. (176 changements)
+
+**********************************
+
+Itération 43
+
+Il y a 17021.0 mots appartenant au centroïde 0.
+Il y a 29988.0 mots appartenant au centroïde 1.
+Il y a 947.0 mots appartenant au centroïde 2.
+Il y a 33643.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 153820.0 mots appartenant au centroïde 5.
+Il y a 14563.0 mots appartenant au centroïde 6.
+Il y a 457.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1085.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 498.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1326.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 53318.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 131727.0 mots appartenant au centroïde 19.
+Il y a 1622.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 750.0 mots appartenant au centroïde 22.
+Il y a 189.0 mots appartenant au centroïde 23.
+Il y a 192.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9887.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1985.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.819009199971333 secondes. (168 changements)
+
+**********************************
+
+Itération 44
+
+Il y a 17003.0 mots appartenant au centroïde 0.
+Il y a 29988.0 mots appartenant au centroïde 1.
+Il y a 947.0 mots appartenant au centroïde 2.
+Il y a 33728.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 154785.0 mots appartenant au centroïde 5.
+Il y a 13254.0 mots appartenant au centroïde 6.
+Il y a 457.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1074.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 511.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1314.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 53077.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 132353.0 mots appartenant au centroïde 19.
+Il y a 1608.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 696.0 mots appartenant au centroïde 22.
+Il y a 182.0 mots appartenant au centroïde 23.
+Il y a 186.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9886.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1969.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.092478499980643 secondes. (165 changements)
+
+**********************************
+
+Itération 45
+
+Il y a 17023.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33728.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 155627.0 mots appartenant au centroïde 5.
+Il y a 12090.0 mots appartenant au centroïde 6.
+Il y a 455.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1077.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1328.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 52725.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 133089.0 mots appartenant au centroïde 19.
+Il y a 1580.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 686.0 mots appartenant au centroïde 22.
+Il y a 175.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9901.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1954.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.45717780000996 secondes. (157 changements)
+
+**********************************
+
+Itération 46
+
+Il y a 17022.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33686.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 156406.0 mots appartenant au centroïde 5.
+Il y a 11137.0 mots appartenant au centroïde 6.
+Il y a 451.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1064.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1316.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 52390.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 133713.0 mots appartenant au centroïde 19.
+Il y a 1570.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 646.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9908.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1952.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.472164900042117 secondes. (157 changements)
+
+**********************************
+
+Itération 47
+
+Il y a 17022.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33688.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 156795.0 mots appartenant au centroïde 5.
+Il y a 10499.0 mots appartenant au centroïde 6.
+Il y a 449.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1056.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1310.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 52063.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 134313.0 mots appartenant au centroïde 19.
+Il y a 1576.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 646.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9919.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1925.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.005511500057764 secondes. (154 changements)
+
+**********************************
+
+Itération 48
+
+Il y a 17019.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33818.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 156878.0 mots appartenant au centroïde 5.
+Il y a 10077.0 mots appartenant au centroïde 6.
+Il y a 449.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1043.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1310.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 51654.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 134995.0 mots appartenant au centroïde 19.
+Il y a 1560.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 638.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9929.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1891.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.10870859993156 secondes. (157 changements)
+
+**********************************
+
+Itération 49
+
+Il y a 17019.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33849.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 157117.0 mots appartenant au centroïde 5.
+Il y a 9661.0 mots appartenant au centroïde 6.
+Il y a 449.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1043.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1304.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 51371.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 135511.0 mots appartenant au centroïde 19.
+Il y a 1550.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 614.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9938.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1835.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.855349000077695 secondes. (162 changements)
+
+**********************************
+
+Itération 50
+
+Il y a 17019.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33871.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 157439.0 mots appartenant au centroïde 5.
+Il y a 9193.0 mots appartenant au centroïde 6.
+Il y a 449.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1043.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1304.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 50995.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 136126.0 mots appartenant au centroïde 19.
+Il y a 1514.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 590.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9945.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1775.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.228610999998637 secondes. (163 changements)
+
+**********************************
+
+Itération 51
+
+Il y a 17018.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33880.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 157844.0 mots appartenant au centroïde 5.
+Il y a 8802.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 1007.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1292.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 50673.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 136598.0 mots appartenant au centroïde 19.
+Il y a 1454.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 580.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9941.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1727.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.479706899961457 secondes. (135 changements)
+
+**********************************
+
+Itération 52
+
+Il y a 17018.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33908.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 158135.0 mots appartenant au centroïde 5.
+Il y a 8384.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 997.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1280.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 50418.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 137073.0 mots appartenant au centroïde 19.
+Il y a 1420.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 580.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9934.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1669.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.4075351000065 secondes. (133 changements)
+
+**********************************
+
+Itération 53
+
+Il y a 16997.0 mots appartenant au centroïde 0.
+Il y a 29994.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 33935.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 158375.0 mots appartenant au centroïde 5.
+Il y a 8095.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 958.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1280.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 50246.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 137396.0 mots appartenant au centroïde 19.
+Il y a 1410.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 572.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9919.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1633.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.474423800013028 secondes. (100 changements)
+
+**********************************
+
+Itération 54
+
+Il y a 16886.0 mots appartenant au centroïde 0.
+Il y a 30078.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 34006.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 158638.0 mots appartenant au centroïde 5.
+Il y a 7814.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 916.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1289.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 50033.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 137730.0 mots appartenant au centroïde 19.
+Il y a 1382.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9892.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1600.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.384555500000715 secondes. (86 changements)
+
+**********************************
+
+Itération 55
+
+Il y a 16883.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 34019.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 158903.0 mots appartenant au centroïde 5.
+Il y a 7542.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 898.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1273.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 49852.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 138010.0 mots appartenant au centroïde 19.
+Il y a 1352.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9885.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1572.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.328775700065307 secondes. (78 changements)
+
+**********************************
+
+Itération 56
+
+Il y a 16883.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 34065.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 159366.0 mots appartenant au centroïde 5.
+Il y a 7083.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 865.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1253.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 49604.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 138270.0 mots appartenant au centroïde 19.
+Il y a 1356.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 556.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9883.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1551.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.45489249995444 secondes. (78 changements)
+
+**********************************
+
+Itération 57
+
+Il y a 16883.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 911.0 mots appartenant au centroïde 2.
+Il y a 34087.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 159977.0 mots appartenant au centroïde 5.
+Il y a 6759.0 mots appartenant au centroïde 6.
+Il y a 447.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 766.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1259.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 49185.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 138474.0 mots appartenant au centroïde 19.
+Il y a 1368.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 564.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9874.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1539.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.384970500017516 secondes. (53 changements)
+
+**********************************
+
+Itération 58
+
+Il y a 16877.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34152.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 160461.0 mots appartenant au centroïde 5.
+Il y a 6427.0 mots appartenant au centroïde 6.
+Il y a 445.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 689.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1259.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 48864.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 138657.0 mots appartenant au centroïde 19.
+Il y a 1398.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 572.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9858.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1526.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.96262809995096 secondes. (55 changements)
+
+**********************************
+
+Itération 59
+
+Il y a 16877.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34213.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 161425.0 mots appartenant au centroïde 5.
+Il y a 5978.0 mots appartenant au centroïde 6.
+Il y a 445.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 667.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1262.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 48142.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 138879.0 mots appartenant au centroïde 19.
+Il y a 1390.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 572.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9826.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1509.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.854817199986428 secondes. (71 changements)
+
+**********************************
+
+Itération 60
+
+Il y a 16874.0 mots appartenant au centroïde 0.
+Il y a 30075.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34219.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 180537.0 mots appartenant au centroïde 5.
+Il y a 5648.0 mots appartenant au centroïde 6.
+Il y a 443.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 647.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1249.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 29152.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 139194.0 mots appartenant au centroïde 19.
+Il y a 1364.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 572.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9800.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1486.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.618135199998505 secondes. (72 changements)
+
+**********************************
+
+Itération 61
+
+Il y a 16874.0 mots appartenant au centroïde 0.
+Il y a 30051.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34240.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 195316.0 mots appartenant au centroïde 5.
+Il y a 5344.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 656.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1240.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 14476.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 139432.0 mots appartenant au centroïde 19.
+Il y a 1364.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 572.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9782.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1474.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.71537550003268 secondes. (65 changements)
+
+**********************************
+
+Itération 62
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34226.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 197839.0 mots appartenant au centroïde 5.
+Il y a 4881.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 654.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1240.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 12298.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 139581.0 mots appartenant au centroïde 19.
+Il y a 1370.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 564.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9786.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1460.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.721930800005794 secondes. (61 changements)
+
+**********************************
+
+Itération 63
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34226.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 198954.0 mots appartenant au centroïde 5.
+Il y a 4730.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 641.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1236.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 11093.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 139828.0 mots appartenant au centroïde 19.
+Il y a 1380.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 564.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9794.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1451.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.49197390000336 secondes. (58 changements)
+
+**********************************
+
+Itération 64
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34134.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 199732.0 mots appartenant au centroïde 5.
+Il y a 4668.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 641.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1232.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 10393.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 139980.0 mots appartenant au centroïde 19.
+Il y a 1370.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9780.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1421.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.07326189999003 secondes. (56 changements)
+
+**********************************
+
+Itération 65
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34116.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 200102.0 mots appartenant au centroïde 5.
+Il y a 4572.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 641.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1234.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 10020.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140149.0 mots appartenant au centroïde 19.
+Il y a 1356.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9759.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1402.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.23409210005775 secondes. (53 changements)
+
+**********************************
+
+Itération 66
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34124.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 200311.0 mots appartenant au centroïde 5.
+Il y a 4534.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 641.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1208.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9817.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140238.0 mots appartenant au centroïde 19.
+Il y a 1366.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9730.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1382.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.42457159992773 secondes. (50 changements)
+
+**********************************
+
+Itération 67
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34116.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 200511.0 mots appartenant au centroïde 5.
+Il y a 4468.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 632.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1187.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9601.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140390.0 mots appartenant au centroïde 19.
+Il y a 1368.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9716.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1364.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.262670800089836 secondes. (44 changements)
+
+**********************************
+
+Itération 68
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34186.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 200568.0 mots appartenant au centroïde 5.
+Il y a 4410.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 632.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1157.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9495.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140471.0 mots appartenant au centroïde 19.
+Il y a 1368.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 168.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9713.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1353.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.39953119994607 secondes. (33 changements)
+
+**********************************
+
+Itération 69
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34194.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 200810.0 mots appartenant au centroïde 5.
+Il y a 4272.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 632.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1150.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9307.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140586.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 538.0 mots appartenant au centroïde 22.
+Il y a 161.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9704.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1339.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.451320299995132 secondes. (32 changements)
+
+**********************************
+
+Itération 70
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34190.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201023.0 mots appartenant au centroïde 5.
+Il y a 4150.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 632.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 504.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1127.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9155.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140678.0 mots appartenant au centroïde 19.
+Il y a 1386.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 178.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9703.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1323.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.78497989999596 secondes. (31 changements)
+
+**********************************
+
+Itération 71
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34185.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201149.0 mots appartenant au centroïde 5.
+Il y a 4100.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 9063.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140733.0 mots appartenant au centroïde 19.
+Il y a 1380.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9696.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1323.0 mots appartenant au centroïde 29.
+
+Effectuée en 24.76177700003609 secondes. (19 changements)
+
+**********************************
+
+Itération 72
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201257.0 mots appartenant au centroïde 5.
+Il y a 4048.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8991.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140753.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9694.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1321.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.301946599967778 secondes. (16 changements)
+
+**********************************
+
+Itération 73
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201305.0 mots appartenant au centroïde 5.
+Il y a 4048.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8923.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140787.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9689.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1312.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.57904950005468 secondes. (11 changements)
+
+**********************************
+
+Itération 74
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201295.0 mots appartenant au centroïde 5.
+Il y a 4048.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8911.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140819.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1305.0 mots appartenant au centroïde 29.
+
+Effectuée en 24.12767309998162 secondes. (11 changements)
+
+**********************************
+
+Itération 75
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201307.0 mots appartenant au centroïde 5.
+Il y a 4048.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8877.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140845.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9688.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1299.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.44130760000553 secondes. (10 changements)
+
+**********************************
+
+Itération 76
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201321.0 mots appartenant au centroïde 5.
+Il y a 4048.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8852.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140863.0 mots appartenant au centroïde 19.
+Il y a 1372.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1294.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.37913140002638 secondes. (8 changements)
+
+**********************************
+
+Itération 77
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201333.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1118.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8853.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140871.0 mots appartenant au centroïde 19.
+Il y a 1362.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1287.0 mots appartenant au centroïde 29.
+
+Effectuée en 24.90586040006019 secondes. (11 changements)
+
+**********************************
+
+Itération 78
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201348.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8813.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140907.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1282.0 mots appartenant au centroïde 29.
+
+Effectuée en 24.770020799944177 secondes. (7 changements)
+
+**********************************
+
+Itération 79
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201360.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8782.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140927.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1281.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.37314369995147 secondes. (3 changements)
+
+**********************************
+
+Itération 80
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201369.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8772.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140928.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1281.0 mots appartenant au centroïde 29.
+
+Effectuée en 23.644797099987045 secondes. (2 changements)
+
+**********************************
+
+Itération 81
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201375.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8764.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140928.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9686.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1283.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.875568199902773 secondes. (2 changements)
+
+**********************************
+
+Itération 82
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201384.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8755.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140930.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9687.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1280.0 mots appartenant au centroïde 29.
+
+Effectuée en 22.962424400029704 secondes. (3 changements)
+
+**********************************
+
+Itération 83
+
+Il y a 17160.0 mots appartenant au centroïde 0.
+Il y a 29762.0 mots appartenant au centroïde 1.
+Il y a 908.0 mots appartenant au centroïde 2.
+Il y a 34193.0 mots appartenant au centroïde 3.
+Il y a 163.0 mots appartenant au centroïde 4.
+Il y a 201384.0 mots appartenant au centroïde 5.
+Il y a 4044.0 mots appartenant au centroïde 6.
+Il y a 439.0 mots appartenant au centroïde 7.
+Il y a 44.0 mots appartenant au centroïde 8.
+Il y a 627.0 mots appartenant au centroïde 9.
+Il y a 76.0 mots appartenant au centroïde 10.
+Il y a 393.0 mots appartenant au centroïde 11.
+Il y a 495.0 mots appartenant au centroïde 12.
+Il y a 68.0 mots appartenant au centroïde 13.
+Il y a 1114.0 mots appartenant au centroïde 14.
+Il y a 100.0 mots appartenant au centroïde 15.
+Il y a 8755.0 mots appartenant au centroïde 16.
+Il y a 104.0 mots appartenant au centroïde 17.
+Il y a 526.0 mots appartenant au centroïde 18.
+Il y a 140930.0 mots appartenant au centroïde 19.
+Il y a 1360.0 mots appartenant au centroïde 20.
+Il y a 27.0 mots appartenant au centroïde 21.
+Il y a 546.0 mots appartenant au centroïde 22.
+Il y a 154.0 mots appartenant au centroïde 23.
+Il y a 180.0 mots appartenant au centroïde 24.
+Il y a 95.0 mots appartenant au centroïde 25.
+Il y a 128.0 mots appartenant au centroïde 26.
+Il y a 9687.0 mots appartenant au centroïde 27.
+Il y a 28.0 mots appartenant au centroïde 28.
+Il y a 1280.0 mots appartenant au centroïde 29.
+
+Effectuée en 21.830926400027238 secondes. (0 changements)
+
+**********************************
+
+FIN DE L'ALGORITHME KMEANS
+
+Clustering effectué en 83 itérations.
+Durée totale de l'exécution: 1848.51072999998 secondes.
+
+Pour le cluster 0:
+	lui --> 99608.74999999999
+	faire --> 100458.38636363637
+	avis --> 120145.38636363638
+	lorsque --> 121821.20454545454
+	se --> 132600.02272727276
+	lieu --> 147299.9318181818
+	4 --> 164736.4772727273
+	état --> 184215.84090909088
+	titre --> 209370.93181818174
+	doit --> 231359.65909090912
+	sous --> 249449.11363636365
+	celui --> 266546.20454545453
+
+
+Pour le cluster 1:
+	autorisation --> 86044.625
+	visée --> 108978.125
+	prévue --> 113690.875
+	feu --> 220047.875
+	quiconque --> 221111.375
+	arme --> 253843.875
+	punissable --> 470097.125
+	égard --> 875351.125
+
+
+Pour le cluster 2:
+	même --> 131496.71487603305
+	cette --> 154313.26033057852
+	tout --> 183191.2603305785
+	partie --> 198062.71487603307
+	sa --> 268769.7148760331
+	droit --> 279382.5330578513
+	moins --> 343178.62396694213
+	agent --> 343589.714876033
+	ce --> 349965.5330578512
+	demande --> 369381.2603305785
+	aux --> 414204.3512396694
+	toute --> 424260.805785124
+
+
+Pour le cluster 3:
+	36 --> 1119.0081360946745
+	33 --> 1268.8927514792897
+	561 --> 1335.7389053254435
+	715 --> 1519.238905325444
+	184 --> 1655.5081360946745
+	241 --> 1821.5850591715975
+	163 --> 1850.9696745562128
+	117 --> 1855.2004437869819
+	82 --> 1860.315828402367
+	47 --> 1861.8158284023668
+	734 --> 1939.200443786982
+	515 --> 2068.623520710059
+
+
+Pour le cluster 4:
+	ou --> 11552170.749999996
+	à --> 22382803.08333333
+	l --> 27660965.416666668
+	la --> 35175591.75000001
+	d --> 43637132.083333336
+	de --> 108585857.4166667
+
+
+Pour le cluster 5:
+	témoignages --> 550.0869421487603
+	choses --> 695.1778512396693
+	paris --> 703.3778512396694
+	décisions --> 721.814214876033
+	enquêtes --> 740.0323966942149
+	pièces --> 803.5051239669419
+	copies --> 826.2323966942148
+	demandes --> 832.9778512396695
+	hypothèques --> 849.905123966942
+	dépositions --> 857.3778512396693
+	mentions --> 862.523305785124
+	conjoints --> 867.9960330578513
+
+
+Pour le cluster 6:
+	condamnation --> 4816.153372781066
+	entreprise --> 5201.568757396451
+	adoption --> 5838.491834319526
+	administrateur --> 7275.661065088757
+	action --> 7399.568757396449
+	ouverture --> 7852.214911242604
+	origine --> 7961.137988165682
+	évaluation --> 8091.999526627218
+	donner --> 8639.353372781065
+	endroit --> 9162.83029585799
+	intéressé --> 9664.830295857988
+	obtenir --> 9744.768757396449
+
+
+Pour le cluster 7:
+	parties --> 27957.96875
+	personnes --> 30932.09375
+	procédures --> 32349.46875
+	renseignements --> 34787.09375
+	conditions --> 45309.34375
+	circonstances --> 50633.84375
+	droits --> 55605.59375
+	dispositions --> 55648.84375
+	autres --> 90603.46875
+	motifs --> 118665.46875
+	ont --> 123151.09375
+	raisonnables --> 124634.84375
+
+
+Pour le cluster 8:
+	art --> 18429896.0
+	ch --> 18429896.0
+
+
+Pour le cluster 9:
+	exécution --> 11221.871900826449
+	ordre --> 11297.780991735537
+	inscription --> 12200.326446280993
+	engagement --> 13530.417355371901
+	immeuble --> 14967.962809917357
+	assuré --> 16526.144628099173
+	autorité --> 16604.508264462813
+	enfant --> 17006.78099173554
+	hypothèque --> 17427.508264462806
+	assurance --> 17559.326446280997
+	exercice --> 17846.50826446281
+	assureur --> 19160.59917355372
+
+
+Pour le cluster 10:
+	présent --> 509786.2222222221
+	vertu --> 1045132.2222222221
+	paragraphe --> 1317906.8888888888
+
+
+Pour le cluster 11:
+	pour --> 1070107.9833795014
+	qui --> 1861477.4570637115
+	par --> 1896903.5623268695
+	dans --> 1904590.2991689749
+	que --> 1938759.5623268697
+	sur --> 2064323.56232687
+	au --> 2089464.5096952908
+	loi --> 3209880.193905818
+	des --> 3415044.193905817
+	personne --> 3419653.4570637117
+	juge --> 3701884.1939058173
+	les --> 3791077.2465373967
+
+
+Pour le cluster 12:
+	propriétaire --> 21492.921600000005
+	créancier --> 25292.281600000006
+	poursuivant --> 30353.241600000005
+	délinquant --> 30429.321600000007
+	paiement --> 32835.7216
+	contrat --> 35603.5616
+	avant --> 39873.40160000001
+	consentement --> 42886.6016
+	délai --> 49683.4816
+	régime --> 49910.0416
+	nom --> 50145.561599999986
+	public --> 50732.9216
+
+
+Pour le cluster 13:
+	1991 --> 7622948.6875
+	64 --> 8858096.6875
+	c --> 14991237.6875
+	a --> 20827451.1875
+
+
+Pour le cluster 14:
+	manière --> 7757.970845481051
+	communication --> 9575.848396501457
+	détention --> 10636.05247813411
+	charge --> 10723.276967930027
+	durée --> 11203.848396501457
+	propriété --> 11875.644314868805
+	vente --> 12652.134110787169
+	société --> 15188.950437317786
+	protection --> 15287.562682215745
+	façon --> 15431.03206997085
+	condition --> 17278.13411078717
+	succession --> 17866.21574344023
+
+
+Pour le cluster 15:
+	passible --> 387762.22222222225
+	emprisonnement --> 447808.22222222225
+	criminel --> 487576.5555555557
+	maximal --> 521397.5555555556
+	coupable --> 579717.8888888888
+	acte --> 937022.2222222222
+
+
+Pour le cluster 16:
+	continue --> 1028.9289283366206
+	reprise --> 1109.344312952005
+	remplacement --> 1141.9443129520048
+	détenir --> 1209.8109796186718
+	fraude --> 1220.4622616699542
+	déclarer --> 1224.6571334648258
+	reconnaissance --> 1227.1032873109793
+	produire --> 1243.1186719263642
+	g --> 1280.2725180802104
+	permet --> 1327.5648257725181
+	fonction --> 1340.0058514135437
+	permettant --> 1352.5238001314924
+
+
+Pour le cluster 17:
+	27 --> 367420.71875
+	suppl --> 405450.46875
+	25 --> 463128.96875
+	46 --> 507632.21875
+	précédente --> 1468857.46875
+	1985 --> 1641763.71875
+	version --> 1658567.71875
+	r --> 1753792.96875
+
+
+Pour le cluster 18:
+	20 --> 4479.566574839302
+	23 --> 4838.475665748393
+	15 --> 4957.930211202938
+	19 --> 5251.808999081726
+	2014 --> 5274.96051423324
+	28 --> 5528.23324150597
+	1997 --> 5581.627180899907
+	2015 --> 6061.14233241506
+	2001 --> 6831.566574839301
+	1995 --> 7517.566574839302
+	16 --> 7637.324150596877
+	41 --> 7733.990817263544
+
+
+Pour le cluster 19:
+	défaveur --> 4.459457489208526
+	virement --> 4.86080089810861
+	indien --> 4.999759756211045
+	trot --> 5.0148731063369905
+	reclassement --> 5.218063702474689
+	hôtels --> 5.218483517755965
+	sépare --> 5.234226590803823
+	préposées --> 5.342329025732456
+	lueur --> 5.36646840440584
+	rétine --> 5.395015843532623
+	hasarder --> 5.4176858687215415
+	compétiteur --> 5.463655642021289
+
+
+Pour le cluster 20:
+	situation --> 2257.627751255502
+	prestation --> 2280.0844441688882
+	validité --> 2431.643499286998
+	gestion --> 2479.391530783061
+	famille --> 2536.1474362948725
+	cession --> 2608.5568851137696
+	dissolution --> 2617.9269638539276
+	surveillance --> 2622.304916609833
+	révision --> 2807.2183024366045
+	restitution --> 2820.509641019282
+	caution --> 2862.903341806684
+	copropriété --> 2864.2104284208567
+
+
+Pour le cluster 21:
+	un --> 4853824.888888888
+	une --> 7749673.555555556
+	le --> 13850104.888888888
+
+
+Pour le cluster 22:
+	mineur --> 5147.1512586322115
+	dossier --> 5674.404989975496
+	logement --> 5946.404989975496
+	bénéficiaire --> 6561.897527288927
+	titulaire --> 6878.8527511695265
+	navire --> 7202.2855869904215
+	dépôt --> 7419.748273557586
+	montant --> 7421.62887057251
+	fonds --> 7923.21096012475
+	certificat --> 8532.166184005346
+	rapport --> 8597.210960124748
+	jugement --> 8680.9721541546
+
+
+Pour le cluster 23:
+	nature --> 34460.38842975206
+	décision --> 38645.024793388424
+	valeur --> 48490.47933884297
+	justice --> 54963.29752066116
+	leur --> 55179.20661157026
+	ces --> 56255.206611570255
+	perpétration --> 67490.47933884297
+	preuve --> 67726.20661157023
+	provinciale --> 94196.02479338844
+	province --> 94432.8429752066
+	non --> 101832.11570247932
+	ses --> 110628.20661157028
+
+
+Pour le cluster 24:
+	actes --> 6917.336734693878
+	obligations --> 12816.265306122448
+	époux --> 13174.765306122448
+	frais --> 14490.622448979591
+	infractions --> 15280.408163265307
+	suivant --> 20045.05102040817
+	fins --> 20366.40816326531
+	relatives --> 23639.122448979593
+	services --> 24349.193877551017
+	poursuites --> 24521.05102040817
+	règles --> 26647.40816326531
+	672 --> 31717.908163265307
+
+
+Pour le cluster 25:
+	fait --> 328143.11911357334
+	si --> 485466.0664819945
+	soit --> 834102.487534626
+	2 --> 1033463.0138504155
+	ordonnance --> 1188910.8033240999
+	être --> 1220393.5401662053
+	tribunal --> 1294476.27700831
+	autre --> 1387624.4875346257
+	été --> 1464335.540166205
+	cas --> 1630617.1191135736
+	ne --> 1731563.4349030473
+	s --> 1813913.3296398893
+
+
+Pour le cluster 26:
+	lieux --> 2631.3046875
+	sommes --> 2703.1171875
+	membres --> 2849.8046875
+	créanciers --> 3220.1796875
+	faits --> 3246.4296875
+	mesures --> 3783.9921875
+	effets --> 3825.1171875
+	moyens --> 4340.9296875
+	témoins --> 4632.6171875
+	documents --> 5071.6796875
+	toutes --> 5203.6796875
+	éléments --> 5562.3671875
+
+
+Pour le cluster 27:
+	1387 --> 5.451051283476443
+	1568 --> 5.632354399623751
+	1610 --> 5.712933562355889
+	1411 --> 5.738114550709682
+	2434 --> 5.959077723514214
+	1540 --> 5.989294909538764
+	998 --> 6.021400669689853
+	1909 --> 6.027066392069455
+	1600 --> 6.04972928158787
+	2396 --> 6.074910269941662
+	1396 --> 6.108275079510437
+	2086 --> 6.112681752472351
+
+
+Pour le cluster 28:
+	44 --> 15628.663265306122
+	32 --> 15776.091836734695
+	17 --> 16616.23469387755
+	29 --> 17981.091836734697
+	10 --> 20549.80612244898
+	21 --> 22186.663265306124
+	43 --> 26717.80612244898
+	18 --> 31616.520408163255
+	13 --> 42320.80612244898
+	34 --> 67686.94897959186
+	6 --> 74120.23469387754
+	22 --> 76509.0918367347
+
+
+Pour le cluster 29:
+	favoriser --> 167.93748107910156
+	secrétaire --> 172.56404357910154
+	faillite --> 182.78123107910153
+	livraison --> 186.37498107910156
+	caducité --> 186.65310607910158
+	augmentation --> 187.59529357910154
+	percevoir --> 188.38279357910156
+	transmettre --> 188.77810607910155
+	poste --> 190.45466857910156
+	suppression --> 190.7718560791016
+	cacher --> 192.20310607910156
+	pratique --> 195.53123107910156
+
+

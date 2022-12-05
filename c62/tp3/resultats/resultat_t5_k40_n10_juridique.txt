@@ -1,4 +1,3 @@
-
 Itération 0
 
 Il y a 28236.0 mots appartenant au centroïde 0.
