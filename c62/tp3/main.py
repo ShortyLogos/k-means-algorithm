@@ -2,6 +2,7 @@ import sys, os
 from typing import Optional, Sequence
 from entrainement import Entrainement
 from prediction import Prediction
+from kmeans import KMeans
 from options import gestion_arguments
 from dao import Dao
 
@@ -26,7 +27,7 @@ def recherche(bd: Dao, taille: int, stopwords: str, verbose: bool, **kwargs: Opt
 			mot, nbr_reponses, methode_choisie = str.lower(entree_utilisateur).split()
 			predicteur.predire(mot, int(nbr_reponses), int(methode_choisie))
 		except ValueError:
-			print('Vous devez entrer 3 arguments. Veuillez réessayer.')
+			print("Vous devez entrer 3 arguments. Veuillez réessayer.")
 		entree_utilisateur = input(prompt_utilisateur)
 
 def reinitialise(bd: Dao, **kwargs: Optional[Sequence[str]]) -> None:
@@ -35,10 +36,15 @@ def reinitialise(bd: Dao, **kwargs: Optional[Sequence[str]]) -> None:
 	bd.creer_tables()
 	print("La base de données a été réinitialisée avec succès.")
 
+def partionnement(bd: Dao, taille: int, k: int, nb_resultats: int, **kwargs: Optional[Sequence[str]]) -> None:
+    donnees_uniques, liste_cooccurrences = bd.obtenir_donnees(taille)
+    kmeans = KMeans(k, liste_cooccurrences, donnees_uniques, nb_resultats)
+    kmeans.equilibrer()
+
 def main(argv: Optional[Sequence[str]] = None) -> int:
-	arguments = gestion_arguments(entrainement, recherche, reinitialise, argv)
-	with Dao(arguments["verbose"]) as bd:
-		arguments['function'](bd, **arguments)
+	arguments = gestion_arguments(entrainement, recherche, reinitialise, partionnement, argv)
+	with Dao(arguments["bd_name"], arguments["verbose"]) as bd:
+		arguments["function"](bd, **arguments)
 	return 0
 
 if __name__ == '__main__':

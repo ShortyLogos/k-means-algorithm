@@ -9,12 +9,6 @@ from time import perf_counter
 import numpy as np
 import random
 
-# méthode qui sera utilisée par le main/argparse
-def partionnement(bd: Dao, taille: int, k: int, nb_resultats: int):
-    donnees_uniques, liste_cooccurrences = bd.obtenir_donnees(taille)
-    kmeans = KMeans(k, liste_cooccurrences, donnees_uniques, nb_resultats)
-    kmeans.equilibrer()
-
 class KMeans:
     def __init__(self, k: int, liste_cooccurrences: list, donnees_uniques: dict, nb_resultats: int):
         self.__temps_completion = perf_counter()

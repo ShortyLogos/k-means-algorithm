@@ -4,8 +4,8 @@ from time import perf_counter
 import traceback
 
 class Dao:
-    def __init__(self, verbose: bool = False) -> None:
-        self.chemin_bd = './mainBD.db'
+    def __init__(self, chemin: str, verbose: bool = False) -> None:
+        self.chemin_bd = './'+chemin+'.db'
         self.__verbose = verbose
         self.__start_time_training = perf_counter()
 
